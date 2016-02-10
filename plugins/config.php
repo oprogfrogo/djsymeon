@@ -2,9 +2,9 @@
 
 /* Contact Form
  ---------------------------------------------------------------------- */
- 
+
 // Enter your email address
-$your_email_address = 'your_email_address';
+$your_email_address = 'symeonsounds@gmail.com';
 
 
 /* Twitter Feed
