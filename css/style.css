@@ -1567,7 +1567,7 @@ ul.stats {
  	 --------------------------------*/
  	#ticker-wrap {
  		width: 100%;
- 		padding: 250px 0 40px;
+ 		padding: 500px 0 40px;
 		/*background: none;
 		background: rgba(0,0,0,0.3);*/
  	}
@@ -1575,7 +1575,7 @@ ul.stats {
 			height: 110px;
 			overflow: hidden;
 			text-align: center;
-			font-size: 98px;
+			font-size: 70px;
 			font-weight: bold;
 			text-transform: uppercase;
 			margin-bottom: 0;

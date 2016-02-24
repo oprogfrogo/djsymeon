@@ -13,7 +13,7 @@
 
 	/* Container */
 	.container { width: 970px; }
-			
+
 		/* Columns
 		 -------------------------------- */
 		.col-1-2 { width: 460px; }
@@ -70,14 +70,14 @@
 	/* Events - Tour - Gigs
  	 ---------------------------------------------------------------------- */
 	#events-list li { height: 200px; }
-	#events-list li:hover { 
+	#events-list li:hover {
 		height: 250px;
 		margin-top: -30px;
-	}	
+	}
 		/* Date */
 		#events-list .event-date {  }
 		#events-list .event-date:before {  }
-		
+
 		/* Title */
 		#events-list h2, #events-list h2 a { font-size: 48px; }
 		#events-list .event-location { font-size: 16px; }
@@ -106,11 +106,11 @@
 
 	/* Container */
 	.container { width: 730px; }
-		.container img { 
+		.container img {
 			max-width: 100%;
 			max-height:100%;
 		}
-			
+
 		/* Columns
 		 -------------------------------- */
 		.col-1-2 { width: 340px; }
@@ -134,29 +134,29 @@
 		padding-left: 0px;
 		display: block;
 	}
-	.column-icon .icon { 
+	.column-icon .icon {
 		position: relative;
 	}
-	
+
 
 	/* Tabs
 	 ------------------------------------ */
-	ul.tabs { 
+	ul.tabs {
 		width:100%;
 		height: auto;
 		border: none;
 		overflow: hidden;
 	}
-		ul.tabs li { 
+		ul.tabs li {
 			width: 100%;
 		}
-		ul.tabs li a { 
+		ul.tabs li a {
 			margin: 0;
 			width: 100%;
 			border-width: 0px 1px 1px 1px;
 			-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
 			-moz-box-sizing: border-box;    /* Firefox, other Gecko */
-			box-sizing: border-box; 
+			box-sizing: border-box;
 		}
 		ul.tabs li:first-child a { border-width: 1px 1px 1px 1px;}
 
@@ -219,7 +219,7 @@
 	/* Intro
  	 ---------------------------------------------------------------------- */
 
-	
+
 	/* Ticker
  	 --------------------------------*/
  	#ticker {
@@ -237,7 +237,7 @@
 	.fullwidth .item .project-thumb { margin: 0px 0px 40px 40px; }
 
 	/* Filter */
-	.filter ul { 
+	.filter ul {
 		text-align: center;
 		padding-bottom: 20px;
 	}
@@ -265,14 +265,14 @@
 	/* Events - Tour - Gigs
  	 ---------------------------------------------------------------------- */
 	#events-list li { height: 200px; }
-	#events-list li:hover { 
+	#events-list li:hover {
 		height: 250px;
 		margin-top: -30px;
-	}	
+	}
 		/* Date */
 		#events-list .event-date {  }
 		#events-list .event-date:before {  }
-		
+
 		/* Title */
 		#events-list h2, #events-list h2 a { font-size: 48px; }
 		#events-list .event-location { font-size: 16px; }
@@ -301,12 +301,12 @@
 
 	/* Container */
 	.container { width: 300px; }
-		.container img { 
+		.container img {
 			max-width: 100%;
 			max-height:100%;
 		}
-		
-			
+
+
 		/* Columns
 		 -------------------------------- */
 		.col-1-2,
@@ -315,9 +315,9 @@
 		.col-1-5,
 		.col-2-3,
 		.col-3-4,
-		.flex-col-1-2, 
+		.flex-col-1-2,
 		.flex-col-1-3,
-		.flex-col-1-4 { 
+		.flex-col-1-4 {
 			width: 100%;
 			margin-right:0;
 		}
@@ -330,20 +330,20 @@
 	 -------------------------------- */
 
 	/* Extra Large heading */
-	.heading-xl { 
-		font-size: 40px; 
+	.heading-xl {
+		font-size: 40px;
 		line-height: 1.4em;
-	} 
+	}
 
 	/* Large heading */
-	.heading-l { 
-		font-size: 30px; 
+	.heading-l {
+		font-size: 30px;
 		line-height: 1.4em;
 	}
 
 	/* Medium heading */
-	.heading-m { 
-		font-size: 24px; 
+	.heading-m {
+		font-size: 24px;
 		line-height: 1.4em;
 	}
 
@@ -355,7 +355,7 @@
 	 -------------------------------- */
 
 	/* Navigation list */
- 	#nav { 
+ 	#nav {
  		display: none;
 	}
 
@@ -376,7 +376,7 @@
 
 	/* Icon navigation
 	 -------------------------------- */
-	#icon-nav { 
+	#icon-nav {
 		position: absolute;
 		right: 80px;
 		top: 0;
@@ -389,7 +389,7 @@
 
  	/* Logo
 	 -------------------------------- */
-	#logo { 
+	#logo {
 		float: left;
 		margin: 8px 0 0 0;
 	}
@@ -398,29 +398,29 @@
 
 	/* Shortcodes
  	 ---------------------------------------------------------------------- */
- 	 
+
 	/* DD Nav */
 	.fancy-dd.alignright { float: left; }
 
 
 	/* Tabs
 	 ------------------------------------ */
-	ul.tabs { 
+	ul.tabs {
 		width:100%;
 		height: auto;
 		border: none;
 		overflow: hidden;
 	}
-		ul.tabs li { 
+		ul.tabs li {
 			width: 100%;
 		}
-		ul.tabs li a { 
+		ul.tabs li a {
 			margin: 0;
 			width: 100%;
 			border-width: 0px 1px 1px 1px;
 			-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
 			-moz-box-sizing: border-box;    /* Firefox, other Gecko */
-			box-sizing: border-box; 
+			box-sizing: border-box;
 		}
 		ul.tabs li:first-child a { border-width: 1px 1px 1px 1px;}
 
@@ -430,7 +430,7 @@
 	.brick.width-1-4 { width: 150px; }
 	.brick.height-1-4 { height: 150px; }
 	.brick.width-1-2 { width: 300px; }
-	.brick.height-1-2 { height:300px; } 
+	.brick.height-1-2 { height:300px; }
 	.brick.width-3-4 { width: 300px; }
 	.brick.height-3-4 { height:300px; }
 
@@ -485,7 +485,7 @@
 	/* Intro
  	 ---------------------------------------------------------------------- */
 
-	
+
 	/* Ticker
  	 --------------------------------*/
  	.intro-bg { display: none; }
@@ -523,7 +523,7 @@
 	.fullwidth .item .project-thumb { margin: 0px 0px 40px 40px; }
 
 	/* Filter */
-	.filter ul { 
+	.filter ul {
 		text-align: center;
 		padding-bottom: 20px;
 	}
@@ -550,12 +550,12 @@
 
 	/* Events - Tour - Gigs
  	 ---------------------------------------------------------------------- */
-	#events-list li { 
+	#events-list li {
 		height: auto;
 		padding: 0;
 		background-image: none !important;
 	}
-	#events-list li:hover { 
+	#events-list li:hover {
 		height: auto;
 		margin-top: 0px;
 	}
@@ -565,12 +565,12 @@
 		}
 			/* Date */
 			#events-list .event-date { font-size: 18px; }
-			
+
 			/* Title */
 			#events-list h2, #events-list h2 a { font-size: 24px; }
 
 			/* Location */
-			#events-list .event-location { 
+			#events-list .event-location {
 				color: #999;
 				font-size: 14px;
 			}
@@ -627,7 +627,7 @@
 	For Mobile Devices [ 440px ] [ Horizontal ]
 /* ---------------------------------------------------------------------- */
 @media only screen and (min-width: 480px) and (max-width: 767px) {
-	
+
 
 	/* Layout and content
 	 ---------------------------------------------------------------------- */
@@ -639,7 +639,7 @@
 		/* Columns
 		 -------------------------------- */
 		.flex-col-1-2,
-		.flex-col-1-4 { 
+		.flex-col-1-4 {
 			width: 50%;
 		}
 
@@ -653,7 +653,7 @@
 	.brick.width-1-4 { width: 220px; }
 	.brick.height-1-4 { height: 220px; }
 	.brick.width-1-2 { width: 440px; }
-	.brick.height-1-2 { height: 440px; } 
+	.brick.height-1-2 { height: 440px; }
 	.brick.width-3-4 { width: 440px; }
 	.brick.height-3-4 { height: 440px; }
 
@@ -721,10 +721,10 @@
 /* ---------------------------------------------------------------------- */
 @media (max-width: 50em) {
 	table.responsive-table {
-		box-shadow: none;  
+		box-shadow: none;
 	}
 	table.responsive-table thead {
-		display: none; 
+		display: none;
 	}
 	table.display th,
 	table.display td {
