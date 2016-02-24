@@ -1467,7 +1467,7 @@ ul.stats {
 		position: absolute;
 		left: 0;
 		top: 0;
-		background: transparent url(../img/overlay.png) left top repeat;
+		background: transparent url(public/img/overlay.png) left top repeat;
 		width: 100%;
 		height: 100%;
 	}

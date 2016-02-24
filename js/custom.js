@@ -9,7 +9,7 @@ jQuery(document).ready(function($) {
 	/* Main Settings
 	 ---------------------------------------------------------------------- */
 	var settings = {
-		// Navigation height 
+		// Navigation height
 		nav_height: $('.nav-container').css('height').replace('px', ''),
 
 		// Animations on mobile devices
@@ -83,7 +83,7 @@ jQuery(document).ready(function($) {
 	(function() {
 		// Small fix for rel attribute
 		$('a[data-cover]').each(function(){
-			var 
+			var
 				$cover = $(this).data('cover');
 
 			$(this).attr('rel', $cover);
@@ -108,7 +108,7 @@ jQuery(document).ready(function($) {
 	(function() {
 
 		var intro = function(){
-			var 
+			var
 			 	intro = $('.intro-resize'),
 				win_width = $(window).width(),
 				win_height = $(window).height(),
@@ -136,8 +136,8 @@ jQuery(document).ready(function($) {
 		// Ticker
 		function tick(){
 			$('#ticker li:first').slideUp({
-				duration: 600, 
-    			easing: 'easeOutSine', 
+				duration: 600,
+    			easing: 'easeOutSine',
     			complete: function(){
 					$(this).appendTo($('#ticker')).slideDown();
 				}
@@ -177,7 +177,7 @@ jQuery(document).ready(function($) {
 	 	 ------------------------- */
 		$('.tweets', container).each(function(){
 
-			var 
+			var
 				$this = $(this),
 				$count = $this.data('tweets-count'),
 				$php_url = 'plugins/tweets.php';
@@ -212,8 +212,8 @@ jQuery(document).ready(function($) {
 		if ($.fn.ResVid) {
 			$(container).ResVid();
 		}
-		
-		
+
+
 		/* Masonry boxes and events
 		 ------------------------- */
 
@@ -237,7 +237,7 @@ jQuery(document).ready(function($) {
 			$('.masonry', container).isotope({
 				masonry: {
     				columnWidth: $('.masonry', container).width()/4
-  				}	
+  				}
 			});
 			$('.masonry, .masonry-events', container).isotope('layout');
 		});
@@ -245,14 +245,14 @@ jQuery(document).ready(function($) {
 
 		/* Toggle content
 	 	 ------------------------- */
-		$('.toggle').each(function() {		  
-			
+		$('.toggle').each(function() {
+
 			/* Init */
 			$('.active-toggle', this).next().show();
 
 			/* List variables */
 			var toggle = $(this);
-			
+
 			/* Click on Toggle Heading */
 			$('h4.toggle-title', this).click(function () {
 				if ($(this).is('.active-toggle')) {
@@ -264,22 +264,22 @@ jQuery(document).ready(function($) {
 				}
 				return false;
 			});
-			
+
 		});
 
 
 		/* Tabs
 	 	 ------------------------- */
-		$('.tabs-wrap').each(function() {		  
-			
+		$('.tabs-wrap').each(function() {
+
 			/* List variables */
 			var tabs = $(this);
-			
+
 			/* Init */
 			$('.tab-content', this).hide();
 			$('.tab-content:first', this).css('display', 'block');
 			$('ul.tabs li:first a', this).addClass('active-tab');
-			
+
 			/* Click on Tab */
 			$('ul.tabs li', this).click(function () {
 				if (!$(this).is('tab-active')) {
@@ -291,7 +291,7 @@ jQuery(document).ready(function($) {
 				}
 				return false;
 			});
-			
+
 		});
 
 
@@ -300,7 +300,7 @@ jQuery(document).ready(function($) {
 		$('.flexslider', container).flexslider({
 			animation: 'slide',
 			prevText: '',           //String: Set the text for the "previous" directionNav item
-			nextText: '' 
+			nextText: ''
 		});
 
 
@@ -311,7 +311,7 @@ jQuery(document).ready(function($) {
 			// Single track
 			$('.fap-single-track', container).click(function(e){
 				// Get attributes
-				var 
+				var
 					trackUrl = $(this).attr('href'),
 					title = $(this).attr('title'),
 					meta = $(this).data('meta'),
@@ -325,7 +325,7 @@ jQuery(document).ready(function($) {
 					if (linkUrl == undefined) linkUrl = '';
 					if (playIt == undefined || playIt == 'no')
 						playIt = false;
-					else 
+					else
 						playIt = true;
 
 				// Add track to player
@@ -346,7 +346,7 @@ jQuery(document).ready(function($) {
 				// Add tracks to the player
 				$('li > a', playlist).each(function(i){
 					// Get attributes
-					var 
+					var
 						trackUrl = $(this).attr('href'),
 						title = $(this).attr('title'),
 						meta = $(this).data('meta'),
@@ -367,7 +367,7 @@ jQuery(document).ready(function($) {
 				$.fullwidthAudioPlayer.toggle();
 				e.preventDefault();
 			});
-				
+
 		}
 
 		/* Fancybox (lightbox)
@@ -393,9 +393,9 @@ jQuery(document).ready(function($) {
 			padding: 0,
 			overlayColor: '#000',
 			titleFormat: formatTitle,
-		
+
 			onStart : function(e) {
-				var 
+				var
 					$el = $(e);
 
 				if ($el.data('width') != 'auto')
@@ -455,7 +455,7 @@ jQuery(document).ready(function($) {
 		                    break;
 
 		                case "finished":
-		              
+
 		                    break;
 		            }
 		        });
@@ -468,7 +468,7 @@ jQuery(document).ready(function($) {
 		if ($.fn.gMap) {
 
 			$('.gmap', container).each(function(){
-				var 
+				var
 					$gmap = $(this),
 					$address = $gmap.data('address'), // Google map address e.g 'Level 13, 2 Elizabeth St, Melbourne Victoria 3000 Australia'
 					$zoom = $gmap.data('zoom'),// Map zoom value. Default: 16
@@ -484,7 +484,7 @@ jQuery(document).ready(function($) {
 						{ 'address' : $address }
 					],
 					icon: {
-				    	image: 'img/map-marker.png',
+				    	image: 'public/img/map-marker.png',
 				    	iconsize: [48,56],
 				    	iconanchor: [20,56]
 				    }
@@ -571,7 +571,7 @@ jQuery(document).ready(function($) {
 							$(this).css({bottom : '-40px', opacity : 1});
 							$(this).animate({ bottom : 0}, 400, 'easeOutQuart');
 						});
-						
+
 						stat_value = $('li', $stats).eq(i).find('.stat-value');
 						display_val(stat_value, num);
 					i++;
@@ -582,7 +582,7 @@ jQuery(document).ready(function($) {
 
 			// Display value
 			function display_val(val, num) {
-				var 
+				var
 					val_length = $stats_values[num].length,
 					val_int = parseInt($stats_values[num]),
 					counter = 10,
@@ -599,7 +599,7 @@ jQuery(document).ready(function($) {
 				else delta = 250;
 
 				var _display = setInterval(function(){
-					
+
 					counter = counter+delta;
 					new_val = counter;
 					val.text(new_val);
@@ -607,9 +607,9 @@ jQuery(document).ready(function($) {
 						clearInterval(_display);
 						val.text($stats_values[num]);
 					}
-						
+
 				},40);
-				
+
 			}
 
 		});
@@ -633,14 +633,14 @@ jQuery(document).ready(function($) {
 			$('.parallax').each(function(){
 				$(this).parallax('50%', $(this).data('interia'), false);
 			});
-			
+
 		}
-		
+
 
 		/* Masonry event hover effect
 	 	 ------------------------- */
 		$('.event-brick').on('hover', function(e){
-			
+
 			if(e.type == 'mouseenter') {
     			$(this).addClass('active');
   			}
@@ -666,7 +666,7 @@ jQuery(document).ready(function($) {
 		$(document).on('mouseleave', '.fancy-dd', function() {
 			$(this).find('ul').stop(true, true).slideUp(600,'easeOutExpo');
 		});
-		
+
 		// Touch devices fix
 		if (Modernizr.touch) {
 			$('.fancy-dd').unbind('mouseenter mouseleave');
@@ -685,12 +685,12 @@ jQuery(document).ready(function($) {
 
 		/* Main navigation
 	 	 ------------------------- */
-		var 
+		var
 			$nav = $('#nav').children('ul');
-		
+
 		// Create main navigation
 		$('li', $nav).on('mouseenter', function() {
-			var 
+			var
 				$this = $(this),
 				$sub  = $this.children('ul');
 			if ($sub.length) $this.addClass('active');
@@ -704,17 +704,17 @@ jQuery(document).ready(function($) {
 	 	 ------------------------- */
 
 	 	// grab the initial top offset of the navigation
-		var 
+		var
 			sticky_nav = $('#main-nav'),
 			sticky_navigation_offset_top = sticky_nav.offset().top-settings.nav_height-2;
 			hiddenNav = false;
-	
+
 		// our function that decides weather the navigation bar should have "fixed" css position or not.
 		var sticky_navigation = function(){
 			var scroll_top = $(window).scrollTop(); // our current vertical position from the top
 
 			// if we've scrolled more than the navigation, change its position to fixed to stick to top, otherwise change it back to relative
-			if (scroll_top > sticky_navigation_offset_top) { 
+			if (scroll_top > sticky_navigation_offset_top) {
 				sticky_nav.addClass('sticky');
 				if (sticky_nav.hasClass('hide')) {
 					hiddenNav = true;
@@ -739,10 +739,10 @@ jQuery(document).ready(function($) {
 				} else {
 					sticky_nav.removeClass('sticky').addClass('hide');
 				}
-				
-			}   
+
+			}
 		};
-	
+
 		// and run it again every time you scroll
 		$(window).scroll(function() {
 			 sticky_navigation();
@@ -755,14 +755,14 @@ jQuery(document).ready(function($) {
 		// Auto create responsive menu based on main navigation
 		if (settings.auto_response) {
 
-			var 
+			var
 				$responsive = $('#nav').clone();
 
 			// Add class
 			$('ul:not(:first-child)', $responsive).addClass('dl-submenu');
 			$('> ul', $responsive).addClass('dl-menu');
 
-			// Remove main nav container 
+			// Remove main nav container
 			$responsive = $responsive.children('ul');
 
 			// Put menu in nav container
@@ -775,8 +775,8 @@ jQuery(document).ready(function($) {
 
 		// if ($.fn.dlmenu) $('#dl-menu').dlmenu({
 		// 	onLinkClick : function( el, ev ) {
-		// 		$('#dl-menu').dlmenu('closeMenu'); 
-		// 		return false; 
+		// 		$('#dl-menu').dlmenu('closeMenu');
+		// 		return false;
 		// 	}
 		// });
 
@@ -809,7 +809,7 @@ jQuery(document).ready(function($) {
 			if ($('#dl-menu').hasClass('one-page-nav'))
 				$('#dl-menu').onePageNav($nav_settings);
 		}
-		
+
 	})();
 
 
@@ -840,7 +840,7 @@ jQuery(document).ready(function($) {
 				    }
 				});
 			});
-			
+
 			// Load images
 			$imgs.jail({effect : 'fadeIn'});
 
@@ -852,13 +852,13 @@ jQuery(document).ready(function($) {
 
 				// Add categories to item classes
 				$('.item', $container).each(function(i) {
-					var 
+					var
 						$this = $(this);
 						$this.addClass($this.attr($data));
 				});
 
 				$el.on('click', 'a', function(e){
-					var 
+					var
 						$this   = $(this),
 						$option = $this.attr($data);
 
@@ -902,7 +902,7 @@ jQuery(document).ready(function($) {
 
 		$form.append('<div id="ajax-message" style="display:none"></div>');
 		var $ajax_message = $('#ajax-message');
-		
+
 		// Submit click event
 		$form.on('click', 'input[type=submit]', function(e){
 
@@ -925,7 +925,7 @@ jQuery(document).ready(function($) {
 					clear_form_elements($form);
 				}
 			});
-			
+
 			e.preventDefault();
 		});
 
@@ -958,7 +958,7 @@ jQuery(document).ready(function($) {
 
 		// Portfolio
 		// create a new instance of the plugin
-    	var project_page = new $.PageLoader($('.project-by-ajax'), { 
+    	var project_page = new $.PageLoader($('.project-by-ajax'), {
 			container_class : 'custom-container',
 			top_offset : -settings.nav_height,
 			deeplinking : true,
@@ -999,7 +999,7 @@ jQuery(document).ready(function($) {
 
 		// Events
 		// create a new instance of the plugin
-    	var event_page = new $.PageLoader($('.event-by-ajax'), { 
+    	var event_page = new $.PageLoader($('.event-by-ajax'), {
 			container_class : 'custom-container',
 			top_offset : -settings.nav_height,
 			deeplinking : true,
@@ -1040,7 +1040,7 @@ jQuery(document).ready(function($) {
 
 		// Custom pages
 		// create a new instance of the plugin
-    	var custom_page = new $.PageLoader($('.page-by-ajax'), { 
+    	var custom_page = new $.PageLoader($('.page-by-ajax'), {
 			container_class : 'custom-container',
 			top_offset : -settings.nav_height,
 			deeplinking : true,
@@ -1123,19 +1123,19 @@ jQuery(document).ready(function($) {
 				$(this).on('click', plugin.open);
 
             });
-            
+
         }
 
         // Private Methods
         var _load_from_hash = function(e) {
         	// body...
-        	
+
         	// Compare hash link
 					var hash = window.location.hash,
 						hash_ok = hash.indexOf(plugin.settings.path);
 
 					if (hash.length > 3 && hash_ok != -1) {
-						var 
+						var
 							plugin_hash = hash.replace('#/','');
 
 							plugin.$el.each(function(e){
@@ -1178,7 +1178,7 @@ jQuery(document).ready(function($) {
 				plugin.settings.close.call(undefined);
 				}
 			});
-			
+
 			$(pluginObj.target).removeClass('open');
 
 			// Remove active thumbnail
@@ -1198,7 +1198,7 @@ jQuery(document).ready(function($) {
      		if (!$(pluginObj.target).hasClass('open')) {
      			if (plugin.settings.debug) console.log("Add html elements to target container.");
 
-				$(pluginObj.target).append('<div class="ajax-container '+plugin.settings.container_class+'"></div>');		
+				$(pluginObj.target).append('<div class="ajax-container '+plugin.settings.container_class+'"></div>');
 				$(pluginObj.target).addClass('open');
 
 				if (plugin.settings.debug) console.log('Content is available.');
@@ -1207,7 +1207,7 @@ jQuery(document).ready(function($) {
      			if (plugin.settings.debug) console.log('Target container already has content.');
      			return;
      		}
-        	
+
         }
 
         var _load_content = function() {
@@ -1262,7 +1262,7 @@ jQuery(document).ready(function($) {
 				});
 
 			}
-		
+
 		};
 
 		var _ajax_action = function() {
@@ -1284,7 +1284,7 @@ jQuery(document).ready(function($) {
 				if (status == 'error') {
 
 					if (plugin.settings.debug) console.log("Ajax transport error (" + pluginObj.link + "): " + xhr.status + " " + xhr.statusText);
-					
+
 					// Load 404 page
 					ajax_container.load('404.html'+' #ajax-content', function(response, status, xhr){
 
@@ -1296,16 +1296,16 @@ jQuery(document).ready(function($) {
 						return false;
 					});
 				}
-				
+
 				/* Success */
 
 				/* Check images are loaded */
-				var 
+				var
 					image_count = $('img', ajax_container).length,
 					images_loaded = 0;
 
 				if (plugin.settings.debug) console.log("Images count: "+image_count);
-				
+
 				if (image_count == 0) {
 					_show_content();
 					return false;
@@ -1327,8 +1327,8 @@ jQuery(document).ready(function($) {
 						return false;
 					}
 				});
-				
-			});	
+
+			});
 		};
 
         var _show_content = function() {
@@ -1380,13 +1380,13 @@ jQuery(document).ready(function($) {
      		if (pluginObj.loading) return false;
 
      		// Get old object if exists
-     		if (pluginObj.element != undefined) 
+     		if (pluginObj.element != undefined)
      			pluginObj.old_element = pluginObj.element;
      		else
      			pluginObj.old_element = null;
      		if (pluginObj.link != undefined)
      			pluginObj.old_link = pluginObj.link;
-     		else 
+     		else
      			pluginObj.old_link = null;
 
      		// Add new object data to target
@@ -1432,8 +1432,8 @@ jQuery(document).ready(function($) {
 
 (function($){
 
- 	$.fn.extend({ 
- 		
+ 	$.fn.extend({
+
 		//pass the options variable to the function
  		TextTyper: function(options) {
 
@@ -1442,11 +1442,11 @@ jQuery(document).ready(function($) {
 			var defaults = {
 				syntax : ''
 			}
-				
+
 			var options =  $.extend(defaults, options);
 
     		return $(this).each(function(index, element) {
-				var 
+				var
 					$o = options,
 					$txt_box = $(element),
 					$my_txt = $txt_box.text(),
@@ -1461,7 +1461,7 @@ jQuery(document).ready(function($) {
 
 				$txt_box.text('');
 				$txt_box.show();
-				
+
 				function enterframe() {
 					if ($i < $my_max) {
 						if ($counter < $interval) {
@@ -1480,11 +1480,11 @@ jQuery(document).ready(function($) {
 						$flag = false;
 					}
 				}
-			
+
     		});
     	}
 	});
-	
+
 })(jQuery);
 
 
@@ -1496,7 +1496,7 @@ jQuery(document).ready(function($) {
  * Rascals Labs 2013
  *
  */
- 
+
 
 (function($){
 
@@ -1506,17 +1506,17 @@ jQuery(document).ready(function($) {
 		var defaults = {
 			syntax : ''
 		}
-			
+
 		var options =  $.extend(defaults, options);
 
 	    $(this).on('mouseenter', function(e) {
 			// Add tip object
-			var 
+			var
 				tip = {},
 				title = '',
 				min_width = 200;
 				mouse_move = false,
-				tip = { 
+				tip = {
 				'desc' : $(this).data('tip-desc'),
 				'top' : $(this).offset().top,
 				'content' :  $(this).find('.tip-content').html()
@@ -1537,7 +1537,7 @@ jQuery(document).ready(function($) {
 			tip['h'] = $('#tip div:first').outerHeight()+100;
 			tip['w'] = $('#tip div:first').outerWidth();
 
-			// Set datatip's mask properties - position, height, width etc  
+			// Set datatip's mask properties - position, height, width etc
 			$('#tip').css({position:'absolute', overflow:'hidden', width:'100%', top:tip['top']-tip['h'], height:tip['h'], left:0 });
 
 			// Animated effect
@@ -1552,14 +1552,14 @@ jQuery(document).ready(function($) {
 	 			$('.tip-content span', tip_el).TextTyper();
 
 	 		}
-	 		
+
 			// Mouse Move
 			if (mouse_move) {
 				// Set tip position
 				$('#tip div').css({ left:e.pageX-(tip['w']/2), top:tip['h']+5 }).animate({ top:100 }, 500, 'easeOutBack');
 
 				// Move datatip according to mouse position, whilst over instigator element
-				$(this).mousemove(function(e){ $('#tip div').css({left: e.pageX-(tip['w']/2)}); }); 
+				$(this).mousemove(function(e){ $('#tip div').css({left: e.pageX-(tip['w']/2)}); });
 			} else {
 				// Set tip position
 				var pos =  $(this).offset();
@@ -1570,10 +1570,10 @@ jQuery(document).ready(function($) {
 	    }).on('mouseleave click', function(e) {
 
 	      	// Remove datatip instances
-	    	$('#tip').remove(); 
+	    	$('#tip').remove();
 
 	    });
-	
+
 	}
 
 })(jQuery);
@@ -1590,8 +1590,8 @@ jQuery(document).ready(function($) {
 
 (function($){
 
- 	$.fn.extend({ 
- 		
+ 	$.fn.extend({
+
 		//pass the options variable to the function
  		ResVid: function(options) {
 
@@ -1600,15 +1600,15 @@ jQuery(document).ready(function($) {
 			var defaults = {
 				syntax : ''
 			}
-				
+
 			var options =  $.extend(defaults, options);
 
     		return $('iframe', this).each(function(i) {
-				var 
+				var
 					$o = options,
 					$iframe = $(this);
 					$players = /www.youtube.com|player.vimeo.com/;
-				
+
 				if ($iframe.attr('src').search($players) > 0) {
 
 					// Ratio
@@ -1626,13 +1626,13 @@ jQuery(document).ready(function($) {
 					// Add wrapper element
 					$iframe.wrap('<div class="video-wrap" style="width:100%;position:relative;padding-top:'+$ratio+'%" />');
 				}
-				
-				
-			
+
+
+
     		});
     	}
 	});
-	
+
 })(jQuery);
 
 
@@ -1741,4 +1741,3 @@ jQuery(document).add(window).bind('ready load', function() {
     jQuery.placeholder.shim();
   }
 });
-
