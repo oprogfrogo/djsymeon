@@ -443,6 +443,7 @@
 			<li><a data-categories="*">All</a></li>
 			<li><a data-categories="new">New Tracks</a></li>
 			<li><a data-categories="trance">Trance</a></li>
+			<li><a data-categories="futurehouse">Future House</a></li>
 			<li><a data-categories="deephouse">Deep House</a></li>
 			<!-- <li><a data-categories="drum-and-bass">Drum and Bass</a></li>
 			<li><a data-categories="glitch">Glitch Hop</a></li>
@@ -469,8 +470,8 @@
 				<span class="badge new">NEW</span>
 				<!-- tooltip -->
 				<div class="tip-content animate hidden">
-					<span class="tip-title">Vocal</span>
-					<span class="tip-genre">Trance</span>
+					<span class="tip-title">Feel So Free</span>
+					<span class="tip-genre">Vocal Trance</span>
 					<span class="tip-date">December 18, 2015</span>
 				</div>
 				<!-- /tooltip -->
@@ -478,173 +479,63 @@
 		</div>
 		<!-- /item -->
 		<!-- item -->
-		<div class="item" data-categories="new drum-and-bass">
-			<a href="project02.html" class="thumb project-thumb project-by-ajax tip" data-ajax-options='{"target" :"#project"}'>
+		<div class="item" data-categories="new trance deephouse">
+			<a href="project01.html" class="thumb project-thumb project-by-ajax tip" data-ajax-options='{"target" :"#project"}'>
 				<!-- title and opacity mask -->
 				<div class="inner">
-					<h6>Tomorrow's Harvest <span>(Vimeo video)</span></h6>
+					<h6>Feel So Free <span>(Channa De Silva Remix)</span></h6>
 				</div>
 				<!-- /title and opacity mask -->
-				<img class="lazy" src="placeholders/placeholder.png" data-src="placeholders/release02-360x360.jpg" alt="Release image" >
+				<img class="lazy" src="placeholders/album_covers/feel_so_free_symeon.jpg" data-src="placeholders/album_covers/feel_so_free_symeon.jpg" alt="Release image" >
 				<!-- badge -->
 				<span class="badge new">NEW</span>
 				<!-- tooltip -->
 				<div class="tip-content animate hidden">
-					<span class="tip-title">Tomorrow's Harvest</span>
-					<span class="tip-genre">NEW / Drum and Bass</span>
-					<span class="tip-date">2013-01-23</span>
+					<span class="tip-title">Feel So Free</span>
+					<span class="tip-genre">Vocal Trance</span>
+					<span class="tip-date">December 18, 2015</span>
 				</div>
 				<!-- /tooltip -->
 			</a>
 		</div>
 		<!-- /item -->
 		<!-- item -->
-		<div class="item" data-categories="drum-and-bass uk-funky">
+		<div class="item" data-categories="new trance">
+			<a href="project02.html" class="thumb project-thumb project-by-ajax tip" data-ajax-options='{"target" :"#project"}'>
+				<!-- title and opacity mask -->
+				<div class="inner">
+					<h6>Spots <span>(Original Mix)</span></h6>
+				</div>
+				<!-- /title and opacity mask -->
+				<img class="lazy" src="placeholders/album_covers/spots_symeon.jpg" data-src="placeholders/album_covers/spots_symeon.jpg" alt="Release image" >
+				<!-- badge -->
+				<span class="badge new">NEW</span>
+				<!-- tooltip -->
+				<div class="tip-content animate hidden">
+					<span class="tip-title">Spots</span>
+					<span class="tip-genre">Trance</span>
+					<span class="tip-date">May 23, 2015</span>
+				</div>
+				<!-- /tooltip -->
+			</a>
+		</div>
+		<!-- /item -->
+		<!-- item -->
+		<div class="item" data-categories="new trance">
 			<a href="project03.html" class="thumb project-thumb project-by-ajax tip" data-ajax-options='{"target" :"#project"}'>
 				<!-- title and opacity mask -->
 				<div class="inner">
-					<h6>Atmosphere <span>(Image slider+soundcloud)</span></h6>
+					<h6>Transfers <span>(Original Mix)</span></h6>
 				</div>
 				<!-- /title and opacity mask -->
-				<img class="lazy" src="placeholders/placeholder.png" data-src="placeholders/release03-360x360.jpg" alt="Release image" >
-				<!-- tooltip -->
-				<div class="tip-content animate hidden">
-					<span class="tip-title">Atmosphere</span>
-					<span class="tip-genre">Drum and Bass / UK Funky</span>
-					<span class="tip-date">2012-12-23</span>
-				</div>
-				<!-- /tooltip -->
-			</a>
-		</div>
-		<!-- /item -->
-		<!-- item -->
-		<div class="item" data-categories="drum-and-bass glitch">
-			<a href="project04.html" class="thumb project-thumb project-by-ajax tip" data-ajax-options='{"target" :"#project"}'>
-				<!-- title and opacity mask -->
-				<div class="inner">
-					<h6>Center of The Universe <span>(Full width image slider)</span></h6>
-				</div>
-				<!-- /title and opacity mask -->
-				<img class="lazy" src="placeholders/placeholder.png" data-src="placeholders/release04-360x360.jpg" alt="Release image" >
-				<!-- tooltip -->
-				<div class="tip-content animate hidden">
-					<span class="tip-title">Center of The Universe</span>
-					<span class="tip-genre">Drum and Bass / Glitch Hop</span>
-					<span class="tip-date">2012-10-07</span>
-				</div>
-				<!-- /tooltip -->
-			</a>
-		</div>
-		<!-- /item -->
-		<!-- item -->
-		<div class="item" data-categories="breakbeat dubstep">
-			<a href="project05.html" class="thumb project-thumb project-by-ajax tip" data-ajax-options='{"target" :"#project"}'>
-				<!-- title and opacity mask -->
-				<div class="inner">
-					<h6>Faster Than Light EP <span>(Masonry boxes)</span></h6>
-				</div>
-				<!-- /title and opacity mask -->
-				<img class="lazy" src="placeholders/placeholder.png" data-src="placeholders/release05-360x360.jpg" alt="Release image" >
-				<!-- tooltip -->
-				<div class="tip-content animate hidden">
-					<span class="tip-title">Faster Than Light EP</span>
-					<span class="tip-genre">Breakbeat / Dubstep</span>
-					<span class="tip-date">2012-08-07</span>
-				</div>
-				<!-- /tooltip -->
-			</a>
-		</div>
-		<!-- /item -->
-		<!-- item -->
-		<div class="item" data-categories="breakbeat dubstep">
-			<a href="https://soundcloud.com/ukfmusic/ukf-music-podcast-2-physical-in-the-mix" class="thumb project-thumb tip fap-single-track">
-				<!-- title and opacity mask -->
-				<div class="inner">
-					<h6>Back To The Acid <span>(Play Soundcloud podcast)</span></h6>
-				</div>
-				<!-- /title and opacity mask -->
-				<img class="lazy" src="placeholders/placeholder.png" data-src="placeholders/release06-360x360.jpg" alt="Release image">
+				<img class="lazy" src="placeholders/album_covers/transfers_symeon.jpg" data-src="placeholders/album_covers/transfers_symeon.jpg" alt="Release image" >
 				<!-- badge -->
-				<span class="badge free">FREE</span>
+				<span class="badge new">NEW</span>
 				<!-- tooltip -->
 				<div class="tip-content animate hidden">
-					<span class="tip-title">Back To The Acid</span>
-					<span class="tip-genre">Breakbeat / Dubstep</span>
-					<span class="tip-date">2012-07-22</span>
-				</div>
-				<!-- /tooltip -->
-			</a>
-		</div>
-		<!-- /item -->
-		<!-- item -->
-		<div class="item" data-categories="uk-funky glitch">
-			<a href="https://soundcloud.com/chinch-jack/sets/jungle-sets" class="thumb project-thumb tip fap-single-track">
-				<!-- title and opacity mask -->
-				<div class="inner">
-					<h6>Skylarking - Remixes <span>(Play Soundcloud playlist)</span></h6>
-				</div>
-				<!-- /title and opacity mask -->
-				<img class="lazy" src="placeholders/placeholder.png" data-src="placeholders/release07-360x360.jpg" alt="Release image" >
-				<!-- tooltip -->
-				<div class="tip-content animate hidden">
-					<span class="tip-title">Skylarking - Remixes</span>
-					<span class="tip-genre">UK Funky / Glitch Hop</span>
-					<span class="tip-date">2012-07-16</span>
-				</div>
-				<!-- /tooltip -->
-			</a>
-		</div>
-		<!-- /item -->
-		<!-- item -->
-		<div class="item" data-categories="breakbeat dubstep glitch">
-			<a href="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F2999711&amp;color=ff7700&amp;auto_play=false&amp;show_artwork=true" class="thumb project-thumb mediabox tip" data-width="auto" data-height="450">
-				<!-- title and opacity mask -->
-				<div class="inner">
-					<h6>Defiant Order <span>(Open Soundcloud in lightbox)</span></h6>
-				</div>
-				<!-- /title and opacity mask -->
-				<img class="lazy" src="placeholders/placeholder.png" data-src="placeholders/release08-360x360.jpg" alt="Release image">
-				<!-- tooltip -->
-				<div class="tip-content animate hidden">
-					<span class="tip-title">Defiant Order</span>
-					<span class="tip-genre">Breakbeat / Glitch Hop / Dubstep</span>
-					<span class="tip-date">2012-05-07</span>
-				</div>
-				<!-- /tooltip -->
-			</a>
-		</div>
-		<!-- /item -->
-		<!-- item -->
-		<div class="item" data-categories="drum-and-bass uk-funky">
-			<a href="placeholders/cover01-big.jpg" class="thumb project-thumb tip imagebox" title="Album Cover">
-				<div class="inner">
-					<h6>Things Can Only Get Better <span>(Open image in lightbox)</span></h6>
-				</div>
-				<img class="lazy" src="placeholders/placeholder.png" data-src="placeholders/release09-360x360.jpg" alt="Release image">
-				<!-- badge -->
-				<span class="badge free">FREE</span>
-				<!-- tooltip -->
-				<div class="tip-content animate hidden">
-					<span class="tip-title">Things Can Only Get Better</span>
-					<span class="tip-genre">Drum and Bass / UK Funky</span>
-					<span class="tip-date">2012-04-11</span>
-				</div>
-				<!-- /tooltip -->
-			</a>
-		</div>
-		<!-- /item -->
-		<!-- item -->
-		<div class="item" data-categories="breakbeat uk-funky">
-			<a href="//player.vimeo.com/video/47224685?byline=0&amp;portrait=0&amp;color=ff9933" class="thumb project-thumb tip mediabox" data-width="auto" data-height="auto">
-				<div class="inner">
-					<h6>Numbers / Limelight <span>(Open video in lightbox)</span></h6>
-				</div>
-				<img class="lazy" src="placeholders/placeholder.png" data-src="placeholders/release10-360x360.jpg" alt="Release image">
-				<!-- tooltip -->
-				<div class="tip-content animate hidden">
-					<span class="tip-title">Numbers / Limelight</span>
-					<span class="tip-genre">Breakbeat / UK Funky</span>
-					<span class="tip-date">2012-03-11</span>
+					<span class="tip-title">Transfers</span>
+					<span class="tip-genre">Trance</span>
+					<span class="tip-date">May 21, 2015</span>
 				</div>
 				<!-- /tooltip -->
 			</a>
