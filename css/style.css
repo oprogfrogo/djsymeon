@@ -1418,7 +1418,7 @@ ul.stats {
 }
 	/* Section header */
 	.section-header {
-		padding: 160px 0;
+		padding: 50px 0;
 		width: 100%;
 		border-top: 1px solid #000;
 		border-bottom: 1px solid #000;
@@ -1541,7 +1541,7 @@ ul.stats {
 		opacity: .06;
 		filter: alpha(opacity=6);
 		-ms-filter: "alpha(opacity=6)";
-		background: transparent url(../img/bg_animated.gif) repeat;
+		/*background: transparent url(../img/bg_animated.gif) repeat;*/
 	}
 
 	#intro > .container { text-align: center; width: 100%; }
@@ -1784,7 +1784,7 @@ ul.stats {
 #newsletter {
 	position: relative;
 	overflow: hidden;
-	padding: 160px 0;
+	padding: 50px 0;
 	text-align: center;
 	background: transparent url(../placeholders/newsletter-1920x600.jpg) center center no-repeat;
 	background-size: cover;

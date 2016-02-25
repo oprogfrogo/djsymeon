@@ -425,6 +425,7 @@
 		<!-- /container -->
 		<div class="container clearfix">
 			<!-- <h6 class="section-sub-heading">LISTEN MY TRACKS</h6> -->
+			<img src="placeholders/symeon_logo_2016.png" class="aligncenter" alt="footer-logo" width="400">
 			<h2 class="section-heading">HEAR MY TRACKS</h2>
 		</div>
 		<!-- /container -->
@@ -768,7 +769,8 @@
 		<div class="overlay"></div> <!-- overlay layer -->
 		<!-- container -->
 		<div class="container clearfix">
-			<h6 class="section-sub-heading">Symeon</h6>
+			<!-- <h6 class="section-sub-heading">Symeon</h6> -->
+			<img src="placeholders/symeon_logo_2016.png" class="aligncenter" alt="footer-logo" width="400">
 			<h2 class="section-heading">BIOGRAPHY</h2>
 		</div>
 		<!-- /container -->
@@ -958,6 +960,7 @@
 
         <hr class="divider">
         <div class="row clearfix">
+			<img src="placeholders/symeon_logo_2016.png" class="aligncenter" alt="footer-logo" width="400">
         	<h2 class="heading-m text-center">Send me a message</h2>
         	<span class="sub-heading text-center">Please fill in your contact details</span>
         </div>
@@ -1004,6 +1007,7 @@
 <section id="newsletter">
 	<div class="overlay"></div>
 	<div class="container">
+		<img src="placeholders/symeon_logo_2016.png" class="aligncenter" alt="footer-logo" width="400">
 		<h3 class="heading-l">SUBSCRIBE TO MY NEWSLETTER</h3>
 		<!-- <form action="#post" method="post" id="subscribe-form"> -->
 		<div class="message"></div>
@@ -1018,9 +1022,9 @@
 
 <!-- ############################# social ############################# -->
 <section id="social">
-    <!-- <div class="flex-col-1-4"><a href="#" class="social-twitter"><span class="icon-twitter"></span>Twitter</a></div> -->
-    <div class="flex-col-1-4"><a href="https://www.facebook.com/symeonsounds/?view_public_for=838264372927970#" class="social-facebook"><span class="icon-facebook"></span>Facebook</a></div>
-    <div class="flex-col-1-4"><a href="#" class="social-soundcloud"><span class="icon-soundcloud"></span>Soundcloud</a></div>
+    <div class="flex-col-1-4"><a href="https://twitter.com/dj_symeon" class="social-twitter"><span class="icon-twitter"></span>Twitter</a></div>
+    <div class="flex-col-1-4"><a href="https://www.facebook.com/symeonsounds" class="social-facebook"><span class="icon-facebook"></span>Facebook</a></div>
+    <div class="flex-col-1-4"><a href="https://soundcloud.com/planetsymeon" class="social-soundcloud"><span class="icon-soundcloud"></span>Soundcloud</a></div>
     <div class="flex-col-1-4"><a href="https://pro.beatport.com/artist/symeon/482023" class="social-vimeo"><span class="icon-beatport"></span>Beatport</a></div>
     <!-- <div class="flex-col-1-4"><a href="#" class="social-youtube"><span class="icon-youtube"></span>Youtube</a></div> -->
     <!-- <div class="flex-col-1-4"><a href="#" class="social-dribbble"><span class="icon-dribbble"></span>Dribbble</a></div> -->
@@ -1034,7 +1038,7 @@
 	<!-- container -->
 	<div class="container">
 		<div id="copyrights">
-			<img src="placeholders/logo-footer.png" class="aligncenter" alt="footer-logo">
+			<img src="placeholders/symeon_logo_2016.png" class="aligncenter" alt="footer-logo" width="400">
 			&copy; <script>document.write(new Date().getFullYear())</script> Symeon. All Rights Reserved.
 		</div>
 	</div>
