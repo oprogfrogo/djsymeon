@@ -1799,7 +1799,7 @@ ul.stats {
 			display: inline-block;
 		}
 
-		#subscribe-email {
+		#email {
 			width: 280px;
 			/*203*/
 			font-size: 24px;
@@ -1809,9 +1809,9 @@ ul.stats {
 			border:0;
 			padding: 16px;
 		}
-		#subscribe-email::-webkit-input-placeholder { color: #222; }
-		#subscribe-email:-moz-placeholder { color: #222; }
-		#subscribe-email:-ms-input-placeholder { color: #222; }
+		#email::-webkit-input-placeholder { color: #222; }
+		#email:-moz-placeholder { color: #222; }
+		#email:-ms-input-placeholder { color: #222; }
 
 		#subscribe-submit {
 			width: 60px;

@@ -44,6 +44,8 @@
 	<![endif]-->
 	<!-- Modernizr -->
 	<script src="js/modernizr.custom.js"></script>
+	<script src="js/jquery_2_1_1.js" type="text/javascript"></script>
+	<script src="js/mailchimp_special.js"></script>
 </head>
 <body>
 
@@ -999,16 +1001,18 @@
 
 
 <!-- ############################# newsletter ############################# -->
-<!-- <section id="newsletter">
+<section id="newsletter">
 	<div class="overlay"></div>
 	<div class="container">
 		<h3 class="heading-l">SUBSCRIBE TO MY NEWSLETTER</h3>
-		<form action="#post" method="post" id="subscribe-form">
-			<input type="email" name="subscribe_email" value="" id="subscribe-email" placeholder="Enter your email..." required>
+		<!-- <form action="#post" method="post" id="subscribe-form"> -->
+		<div class="message"></div>
+		<form  role="form" method="post" id="subscribe">
+			<input type="email" name="email" value="" id="email" placeholder="Enter your email..." required>
 			<input type="submit" value="+" class="large" id="subscribe-submit">
 		</form>
 	</div>
-</section> -->
+</section>
 <!-- /newsletter -->
 
 
