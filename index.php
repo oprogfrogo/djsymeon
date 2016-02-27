@@ -21,6 +21,8 @@
 	<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
 	<!-- <meta name="robots" content="index,follow"> -->
 
+	<link rel="image_src" href="placeholders/djsymeon_logo_2016_dark.png" / ><!--formatted-->
+
 	<!-- ############################# Stylesheets ############################# -->
 	<link rel="stylesheet" href="css/menu.css" media="screen" />
 	<link rel="stylesheet" href="css/style.css" media="screen" />
@@ -157,14 +159,17 @@
 					<li>
 						<a href="#portfolio">Releases</a>
 					</li>
-					<li>
+					<!-- <li>
 						<a href="#events">Events</a>
-					</li>
+					</li> -->
 					<li>
 						<a href="#bio">Bio</a>
 					</li>
 					<li>
 						<a href="#contact">Contact</a>
+					</li>
+					<li>
+						<a href="#newsletter">Newsletter</a>
 					</li>
 				</ul>
 			</nav>
@@ -717,11 +722,11 @@
 			</div>
 			<!-- /row -->
 			<!-- row -->
-			<!-- <div class="row">
+			<div class="row">
 				<h3>Latest mix from soundcloud</h3>
-                <iframe style="width:100%;border:0" height="166" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/91789660"></iframe>
-                <p>Phasellus ligula sem, laoreet luctus luctus sed, pharetra in mi. Aenean accumsan gravida convallis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus congue tellus lectus, quis sodales sem. Ut nec nisl id sem ultricies malesuada. Nunc eu justo mauris, non lobortis dolor. Nunc id condimentum leo.</p>
-			</div> -->
+                <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/249206933&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+                <p>Tech House Mix on Feb 27, 2016</p>
+			</div>
 			<!-- /row -->
 
 		</div>
@@ -798,12 +803,13 @@
 <section id="contact" class="section">
 
 	<!-- ############ GMap ############ -->
-	<div id="contact-map" class="gmap clearfix" data-address="Santa Monica Beach, CA" data-zoom="16" data-zoom_control="true" data-scrollwheel="false"></div>
+	<!-- <div id="contact-map" class="gmap clearfix" data-address="Santa Monica Beach, CA" data-zoom="16" data-zoom_control="true" data-scrollwheel="false"></div> -->
 	<!-- /gmap -->
 
 	<!-- ############ section container ############ -->
 	<div class="section-container container clearfix">
 
+		<img src="placeholders/symeon_logo_2016.png" class="aligncenter" alt="footer-logo" width="400">
 			<!-- ############ content header ############ -->
 			<header class="content-header">
 				<h1 class="content-title">Get in Touch</h1>

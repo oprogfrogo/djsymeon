@@ -381,7 +381,14 @@ jQuery(document).ready(function($) {
 			overlayOpacity : .9,
 			overlayColor: '#000',
 			padding: 0,
-			titleFormat: formatTitle
+			titleFormat: formatTitle,
+			onStart: function () {
+	            $('body').on('click', function(){
+					alert('here');
+	                //console.log($(this).parent);
+	                $(this).parent.fancybox.close();
+	            })
+        	}
 		});
 
 		// Add Fancybox only for media
