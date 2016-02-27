@@ -951,7 +951,7 @@
 <div id="fap">
 	<!-- <a href="placeholders/mp3/demo01.mp3" title="Smash It Up - Main" data-cover="placeholders/release07-360x360.jpg"></a>
 	<a href="placeholders/mp3/demo02.mp3" title="Smash It Up - Loop" data-cover="placeholders/release08-360x360.jpg"></a> -->
-	<a href="placeholders/mp3/demo03.mp3" title="Smash It Up - Tom" data-cover="placeholders/release09-360x360.jpg"></a>
+	<!-- <a href="placeholders/mp3/demo03.mp3" title="Smash It Up - Tom" data-cover="placeholders/release09-360x360.jpg"></a> -->
 </div>
 <!-- fullwidth player -->
 
