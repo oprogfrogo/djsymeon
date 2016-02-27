@@ -21,7 +21,10 @@
 	<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
 	<!-- <meta name="robots" content="index,follow"> -->
 
-	<link rel="image_src" href="http://www.djsymeon.com/placeholders/djsymeon_logo_2016_dark.png" / ><!--formatted-->
+	<meta property="og:image" content="http://www.djsymeon.com/placeholders/djsymeon_logo_2016_dark.png">
+	<meta property="og:image:type" content="image/png">
+	<meta property="og:image:width" content="989">
+	<meta property="og:image:height" content="619">
 
 	<!-- ############################# Stylesheets ############################# -->
 	<link rel="stylesheet" href="css/menu.css" media="screen" />
