@@ -166,10 +166,10 @@
 						<a href="#events">Events</a>
 					</li> -->
 					<li>
-						<a href="#bio">Bio</a>
+						<a href="#bio">Bio & Mixes</a>
 					</li>
 					<li>
-						<a href="#latest-mixes">Latest Mixes</a>
+						<a href="#mixes">Latest Mixes</a>
 					</li>
 					<li>
 						<a href="#contact">Contact</a>
@@ -202,6 +202,15 @@
 
 <!-- ############################# masonry news ############################# -->
 <section id="masonry-news" class="masonry-news clearfix">
+	<!-- ############ Paralax Intro ############ -->
+	<div id="portfolio-header" class="section-header parallax clearfix" style="background-image: url(placeholders/release-header-1920x1000.jpg)" data-interia="0.1">
+		<div class="overlay"></div>
+		<div class="container clearfix">
+			<img src="placeholders/symeon_logo_2016.png" class="aligncenter" alt="footer-logo" width="400">
+			<h2 class="section-heading">NEW TRACKS</h2>
+		</div>
+	</div>
+	<!-- /parallax intro -->
 	<!-- container -->
 	<div class="container clearfix">
 		<!-- ############ masonry ############ -->
@@ -432,14 +441,11 @@
 
 	<!-- ############ Paralax Intro ############ -->
 	<div id="portfolio-header" class="section-header parallax clearfix" style="background-image: url(placeholders/release-header-1920x1000.jpg)" data-interia="0.1">
-		<div class="overlay"></div> <!-- overlay layer -->
-		<!-- /container -->
+		<div class="overlay"></div>
 		<div class="container clearfix">
-			<!-- <h6 class="section-sub-heading">LISTEN MY TRACKS</h6> -->
 			<img src="placeholders/symeon_logo_2016.png" class="aligncenter" alt="footer-logo" width="400">
-			<h2 class="section-heading">HEAR MY TRACKS</h2>
+			<h2 class="section-heading">TRACK LIBRARY</h2>
 		</div>
-		<!-- /container -->
 	</div>
 	<!-- /parallax intro -->
 
@@ -728,14 +734,7 @@
 			</div>
 			<!-- /row -->
 			<!-- row -->
-			<div id="latest-mixes" class="row">
-				<h3>Latest mix from soundcloud</h3>
-				<p>Progressive House Mix on Feb 28, 2016</p>
-				<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/249277181&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-				<p>Tech House Mix on Feb 27, 2016</p>
-                <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/249206933&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-			</div>
-			<!-- /row -->
+
 
 		</div>
 		<!-- /container -->
@@ -743,6 +742,32 @@
 	<!-- /section container -->
 </section>
 <!-- /bio -->
+
+
+<section id="mixes" class="section">
+	<!-- ############ Paralax Intro ############ -->
+	<div id="portfolio-header" class="section-header parallax clearfix" style="background-image: url(placeholders/release-header-1920x1000.jpg)" data-interia="0.1">
+		<div class="overlay"></div>
+		<div class="container clearfix">
+			<img src="placeholders/symeon_logo_2016.png" class="aligncenter" alt="footer-logo" width="400">
+			<h2 class="section-heading">MIXES</h2>
+		</div>
+	</div>
+	<!-- /parallax intro -->
+	<div id="latest-mixes" class="section-container clearfix">
+		<div class="container">
+			<div class="row">
+				<h3>LISTEN & DOWNLOAD FREE FROM SOUNDCLOUD</h3>
+				<p>Progressive House Mix on Feb 28, 2016</p>
+				<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/249277181&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+				<p>Tech House Mix on Feb 27, 2016</p>
+				<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/249206933&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+			</div>
+		</div>
+	</div>
+</section>
+
+
 
 
 <!-- ############################# stats ############################# -->
