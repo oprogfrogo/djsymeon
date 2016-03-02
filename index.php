@@ -114,7 +114,7 @@
 			<nav id="icon-nav">
 				<ul>
 					<li><a href="#intro" id="nav-up" class="smooth-scroll"><span class="icon-arrow-up-2"></span></a></li>
-					<li><a href="#" id="nav-search"><span class="icon-search"></span></a></li>
+					<!-- <li><a href="#" id="nav-search"><span class="icon-search"></span></a></li> -->
 				</ul>
 			</nav>
 			<!-- /icon navigation -->
@@ -160,16 +160,19 @@
                         </ul>
                     </li> -->
 					<li>
-						<a href="#portfolio">Releases</a>
+						<a href="#new_tracks">New Tracks</a>
+					</li>
+					<li>
+						<a href="#portfolio">Library</a>
 					</li>
 					<!-- <li>
 						<a href="#events">Events</a>
 					</li> -->
 					<li>
-						<a href="#bio">Bio & Mixes</a>
+						<a href="#bio">Biography</a>
 					</li>
 					<li>
-						<a href="#mixes">Latest Mixes</a>
+						<a href="#mixes">Mixes</a>
 					</li>
 					<li>
 						<a href="#contact">Contact</a>
@@ -203,7 +206,7 @@
 <!-- ############################# masonry news ############################# -->
 <section id="masonry-news" class="masonry-news clearfix">
 	<!-- ############ Paralax Intro ############ -->
-	<div id="portfolio-header" class="section-header parallax clearfix" style="background-image: url(placeholders/release-header-1920x1000.jpg)" data-interia="0.1">
+	<div id="new_tracks" class="section-header parallax clearfix" style="background-image: url(placeholders/release-header-1920x1000.jpg)" data-interia="0.1">
 		<div class="overlay"></div>
 		<div class="container clearfix">
 			<img src="placeholders/symeon_logo_2016.png" class="aligncenter" alt="footer-logo" width="400">
