@@ -178,7 +178,7 @@
 						<a href="#contact">Contact</a>
 					</li>
 					<li>
-						<a href="#newsletter">Newsletter</a>
+						<a href="#newsletter">Subscribe</a>
 					</li>
 				</ul>
 			</nav>
