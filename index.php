@@ -51,6 +51,7 @@
 	<script src="js/modernizr.custom.js"></script>
 	<script src="js/jquery_2_1_1.js" type="text/javascript"></script>
 	<script src="js/mailchimp_special.js"></script>
+	<script src="js/google_analytics.js"></script>
 </head>
 <body>
 
