@@ -16,7 +16,7 @@
 	<meta name="apple-mobile-web-app-capable" content="yes" />
 	<meta name="description" content="Premium theme.">
 	<meta name="keywords" content=""/>
-	<meta name="author" content="Site Author">
+	<meta name="author" content="Symeon">
 	<!-- Fav icon -->
 	<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
 	<!-- <meta name="robots" content="index,follow"> -->
