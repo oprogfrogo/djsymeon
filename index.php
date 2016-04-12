@@ -7,7 +7,7 @@
 <!--[if gt IE 8]><!-->
 <html class="no-js" lang="en-US"><!--<![endif]-->
 <head>
-	<title>Symeon - Dance Music Producer</title>
+	<title>Symeon - Electronic Music DJ / Producer</title>
 	<meta charset="utf-8">
 	<!--[if IE]>
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" >
