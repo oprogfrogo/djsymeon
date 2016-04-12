@@ -358,7 +358,7 @@
 						<div class="flipper">
 							<div class="front" style="background:#333333">
 								<span class="brick-icon icon-arrow-left-3"></span>
-								<span class="brick-title">DOWNLOAD NOW!! <br> Feel So Free by Symeon (Original Mix)</span>
+								<span class="brick-title">DOWNLOAD NOW - CLICK HERE TO DOWNLOAD!! <br> Feel So Free by Symeon (Original Mix)</span>
 							</div>
 							<div class="back">
 								<span class="brick-icon icon-arrow-left-3"></span>
@@ -388,7 +388,7 @@
 						<div class="flipper">
 							<div class="front" style="background:#333333">
 								<span class="brick-icon icon-arrow-left-3"></span>
-								<span class="brick-title">DOWNLOAD NOW!! <br> Feel So Free by Symeon (Channa De Silva Remix)</span>
+								<span class="brick-title">DOWNLOAD NOW - CLICK HERE TO DOWNLOAD!! <br> Feel So Free by Symeon (Channa De Silva Remix)</span>
 							</div>
 							<div class="back">
 								<span class="brick-icon icon-arrow-left-3"></span>
@@ -418,7 +418,7 @@
 						<div class="flipper">
 							<div class="front" style="background:#333333">
 								<span class="brick-icon icon-arrow-left-3"></span>
-								<span class="brick-title">DOWNLOAD NOW!! <br> Spots by Symeon (Original Mix)</span>
+								<span class="brick-title">DOWNLOAD NOW - CLICK HERE TO DOWNLOAD!! <br> Spots by Symeon (Original Mix)</span>
 							</div>
 							<div class="back">
 								<span class="brick-icon icon-arrow-left-3"></span>
@@ -448,7 +448,7 @@
 						<div class="flipper">
 							<div class="front" style="background:#333333">
 								<span class="brick-icon icon-arrow-left-3"></span>
-								<span class="brick-title">DOWNLOAD NOW!! <br> Transfers by Symeon (Original Mix)</span>
+								<span class="brick-title">DOWNLOAD NOW - CLICK HERE TO DOWNLOAD!! <br> Transfers by Symeon (Original Mix)</span>
 							</div>
 							<div class="back">
 								<span class="brick-icon icon-arrow-left-3"></span>
