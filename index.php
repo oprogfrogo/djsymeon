@@ -229,20 +229,20 @@
 					<!-- image -->
 					<img src="placeholders/album_covers/well_be_here_symeon.jpg" alt="Release image" >
 					<!-- badge -->
-					<span class="badge free">Soon!!!</span>
+					<span class="badge free">OUT NOW!</span>
 				</a>
 			</div>
 			<div class="brick width-1-4 height-1-4">
-				<a href="placeholders/mp3/wbh_symeon.mp3" class="thumb">
+				<a href="https://pro.beatport.com/track/well-be-here-feat-chikha-feat-chikha-original-mix/7764067" class="thumb">
 					<div class="flip-container">
 						<div class="flipper">
 							<div class="front" style="background:#333333">
 								<span class="brick-icon icon-arrow-left-3"></span>
-								<span class="brick-title">COMING SOON!! <br> We'll Be Here by Symeon (Original Mix)</span>
+								<span class="brick-title">OUT NOW - CLICK HERE TO DOWNLOAD!! <br> We'll Be Here by Symeon (Original Mix)</span>
 							</div>
 							<div class="back">
 								<span class="brick-icon icon-arrow-left-3"></span>
-								<span class="brick-title">Coming Soon!!!</span>
+								<span class="brick-title">OUT NOW!</span>
 							</div>
 						</div>
 					</div>
@@ -259,20 +259,20 @@
 					<!-- image -->
 					<img src="placeholders/album_covers/well_be_here_symeon.jpg" alt="Release image" >
 					<!-- badge -->
-					<span class="badge free">Soon!!!</span>
+					<span class="badge free">OUT NOW!</span>
 				</a>
 			</div>
 			<div class="brick width-1-4 height-1-4">
-				<a href="placeholders/mp3/wbh_cds.mp3" class="thumb">
+				<a href="https://pro.beatport.com/track/well-be-here-feat-chikha-feat-chikha-original-mix/7764067" class="thumb">
 					<div class="flip-container">
 						<div class="flipper">
 							<div class="front" style="background:#333333">
 								<span class="brick-icon icon-arrow-left-3"></span>
-								<span class="brick-title">COMING SOON!! <br> We'll Be Here by Symeon (Channa De Silva Mix)</span>
+								<span class="brick-title">OUT NOW - CLICK HERE TO DOWNLOAD!! <br> We'll Be Here by Symeon (Channa De Silva Mix)</span>
 							</div>
 							<div class="back">
 								<span class="brick-icon icon-arrow-left-3"></span>
-								<span class="brick-title">Coming Soon!!!</span>
+								<span class="brick-title">OUT NOW!</span>
 							</div>
 						</div>
 					</div>
