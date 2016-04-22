@@ -930,7 +930,7 @@
 				<div class="col-1-4 column-icon">
 					<span class="icon-phone icon"></span>
 					<span class="txt">
-						<strong>(213) 761-4907</strong>
+						<strong>(two one three) 761-4907</strong>
 						<!-- <br>(123) 123-9899-234 (FAX) -->
 					</span>
 				</div>
