@@ -221,66 +221,6 @@
 		<div class="masonry">
 			<!-- brick -->
 			<div class="brick width-1-4 height-1-4">
-				<a href="https://soundcloud.com/planetsymeon/sample-of-at-the-bitter-end-by-sinisha-remixed-by-symeon" class="thumb fap-single-track">
-					<!-- Title and opacity mask -->
-					<div class="inner">
-						<h6>Play Sample</h6>
-					</div>
-					<!-- image -->
-					<img src="placeholders/album_covers/at_the_bitter_end_sinisha_symeon.jpg" alt="Release image" >
-					<!-- badge -->
-					<span class="badge free">Soon!!!</span>
-				</a>
-			</div>
-			<div class="brick width-1-4 height-1-4">
-				<a href="placeholders/mp3/at_the_bitter_end_sample.mp3" class="thumb fap-single-track">
-					<div class="flip-container">
-						<div class="flipper">
-							<div class="front" style="background:#333333">
-								<span class="brick-icon icon-arrow-left-3"></span>
-								<span class="brick-title">COMING SOON!! <br> At The Bitter End by Sinisha Golemac (Symeon Remix)</span>
-							</div>
-							<div class="back">
-								<span class="brick-icon icon-arrow-left-3"></span>
-								<span class="brick-title">Coming Soon!!!</span>
-							</div>
-						</div>
-					</div>
-				</a>
-			</div>
-			<!-- /brick -->
-			<!-- brick -->
-			<div class="brick width-1-4 height-1-4">
-				<a href="placeholders/mp3/when_the_night_falls_sample.mp3" class="thumb fap-single-track">
-					<!-- Title and opacity mask -->
-					<div class="inner">
-						<h6>Play Sample</h6>
-					</div>
-					<!-- image -->
-					<img src="placeholders/album_covers/when_the_night_falls.jpg" alt="Release image" >
-					<!-- badge -->
-					<span class="badge free">OUT NOW!</span>
-				</a>
-			</div>
-			<div class="brick width-1-4 height-1-4">
-				<a href="https://pro.beatport.com/release/when-the-night-falls-single/1755399" class="thumb">
-					<div class="flip-container">
-						<div class="flipper">
-							<div class="front" style="background:#333333">
-								<span class="brick-icon icon-arrow-left-3"></span>
-								<span class="brick-title">OUT NOW - CLICK HERE TO DOWNLOAD!! <br> When The Night Falls by Symeon (Sample)</span>
-							</div>
-							<div class="back">
-								<span class="brick-icon icon-arrow-left-3"></span>
-								<span class="brick-title">OUT NOW!</span>
-							</div>
-						</div>
-					</div>
-				</a>
-			</div>
-			<!-- /brick -->
-			<!-- brick -->
-			<div class="brick width-1-4 height-1-4">
 				<a href="placeholders/mp3/wbh_symeon.mp3" class="thumb fap-single-track">
 					<!-- Title and opacity mask -->
 					<div class="inner">
@@ -333,6 +273,66 @@
 							<div class="back">
 								<span class="brick-icon icon-arrow-left-3"></span>
 								<span class="brick-title">OUT NOW!</span>
+							</div>
+						</div>
+					</div>
+				</a>
+			</div>
+			<!-- /brick -->
+			<!-- brick -->
+			<div class="brick width-1-4 height-1-4">
+				<a href="placeholders/mp3/when_the_night_falls_sample.mp3" class="thumb fap-single-track">
+					<!-- Title and opacity mask -->
+					<div class="inner">
+						<h6>Play Sample</h6>
+					</div>
+					<!-- image -->
+					<img src="placeholders/album_covers/when_the_night_falls.jpg" alt="Release image" >
+					<!-- badge -->
+					<span class="badge free">Soon!!!</span>
+				</a>
+			</div>
+			<div class="brick width-1-4 height-1-4">
+				<a href="placeholders/mp3/when_the_night_falls_sample.mp3" class="thumb">
+					<div class="flip-container">
+						<div class="flipper">
+							<div class="front" style="background:#333333">
+								<span class="brick-icon icon-arrow-left-3"></span>
+								<span class="brick-title">COMING SOON!! <br> When The Night Falls by Symeon (Sample)</span>
+							</div>
+							<div class="back">
+								<span class="brick-icon icon-arrow-left-3"></span>
+								<span class="brick-title">Coming Soon!!!</span>
+							</div>
+						</div>
+					</div>
+				</a>
+			</div>
+			<!-- /brick -->
+			<!-- brick -->
+			<div class="brick width-1-4 height-1-4">
+				<a href="https://soundcloud.com/planetsymeon/sample-of-at-the-bitter-end-by-sinisha-remixed-by-symeon" class="thumb fap-single-track">
+					<!-- Title and opacity mask -->
+					<div class="inner">
+						<h6>Play Sample</h6>
+					</div>
+					<!-- image -->
+					<img src="placeholders/album_covers/at_the_bitter_end_sinisha_symeon.jpg" alt="Release image" >
+					<!-- badge -->
+					<span class="badge free">Soon!!!</span>
+				</a>
+			</div>
+			<div class="brick width-1-4 height-1-4">
+				<a href="placeholders/mp3/at_the_bitter_end_sample.mp3" class="thumb fap-single-track">
+					<div class="flip-container">
+						<div class="flipper">
+							<div class="front" style="background:#333333">
+								<span class="brick-icon icon-arrow-left-3"></span>
+								<span class="brick-title">COMING SOON!! <br> At The Bitter End by Sinisha Golemac (Symeon Remix)</span>
+							</div>
+							<div class="back">
+								<span class="brick-icon icon-arrow-left-3"></span>
+								<span class="brick-title">Coming Soon!!!</span>
 							</div>
 						</div>
 					</div>
