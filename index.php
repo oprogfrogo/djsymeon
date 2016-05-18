@@ -539,6 +539,28 @@
 	<div id="portfolio-items" class="fullwidth items clearfix">
 		<!-- item -->
 		<div class="item" data-categories="new trance deephouse">
+			<a href="project04.html" class="thumb project-thumb project-by-ajax tip" data-ajax-options='{"target" :"#project"}'>
+				<!-- title and opacity mask -->
+				<div class="inner">
+					<h6>We'll Be Here <span>(Original Mix)</span></h6>
+				</div>
+				<!-- /title and opacity mask -->
+				<!-- image -->
+				<img class="lazy" src="placeholders/album_covers/well_be_here_symeon.jpg" data-src="placeholders/album_covers/well_be_here_symeon.jpg" alt="Release image" >
+				<!-- badge -->
+				<span class="badge new">NEW</span>
+				<!-- tooltip -->
+				<div class="tip-content animate hidden">
+					<span class="tip-title">We'll Be Here</span>
+					<span class="tip-genre">Vocal Trance</span>
+					<span class="tip-date">April 04, 2016</span>
+				</div>
+				<!-- /tooltip -->
+			</a>
+		</div>
+		<!-- /item -->
+		<!-- item -->
+		<div class="item" data-categories="new trance deephouse">
 			<a href="project01.html" class="thumb project-thumb project-by-ajax tip" data-ajax-options='{"target" :"#project"}'>
 				<!-- title and opacity mask -->
 				<div class="inner">
