@@ -238,11 +238,11 @@
 						<div class="flipper">
 							<div class="front" style="background:#333333">
 								<span class="brick-icon icon-arrow-left-3"></span>
-								<span class="brick-title">OUT NOW!! <br> At The Bitter End by Sinisha Golemac (Symeon Remix)</span>
+								<span class="brick-title">OUT NOW!! - CLICK HERE TO DOWNLOAD!!<br> At The Bitter End by Sinisha Golemac (Symeon Remix)</span>
 							</div>
 							<div class="back">
 								<span class="brick-icon icon-arrow-left-3"></span>
-								<span class="brick-title">OUT NOW!!!</span>
+								<span class="brick-title">OUT NOW!!! CLICK TO DOWNLOAD</span>
 							</div>
 						</div>
 					</div>
