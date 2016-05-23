@@ -221,7 +221,7 @@
 		<div class="masonry">
 			<!-- brick -->
 			<div class="brick width-1-4 height-1-4">
-				<a href="https://soundcloud.com/planetsymeon/sample-of-at-the-bitter-end-by-sinisha-remixed-by-symeon" class="thumb fap-single-track">
+				<a href="https://pro.beatport.com/track/at-the-bitter-end-symeon-remix/7923746" class="thumb fap-single-track">
 					<!-- Title and opacity mask -->
 					<div class="inner">
 						<h6>Play Sample</h6>
@@ -229,7 +229,7 @@
 					<!-- image -->
 					<img src="placeholders/album_covers/at_the_bitter_end_sinisha_symeon.jpg" alt="Release image" >
 					<!-- badge -->
-					<span class="badge free">Soon!!!</span>
+					<span class="badge free">OUT NOW!!!</span>
 				</a>
 			</div>
 			<div class="brick width-1-4 height-1-4">
@@ -238,11 +238,11 @@
 						<div class="flipper">
 							<div class="front" style="background:#333333">
 								<span class="brick-icon icon-arrow-left-3"></span>
-								<span class="brick-title">COMING SOON!! <br> At The Bitter End by Sinisha Golemac (Symeon Remix)</span>
+								<span class="brick-title">OUT NOW!! <br> At The Bitter End by Sinisha Golemac (Symeon Remix)</span>
 							</div>
 							<div class="back">
 								<span class="brick-icon icon-arrow-left-3"></span>
-								<span class="brick-title">Coming Soon!!!</span>
+								<span class="brick-title">OUT NOW!!!</span>
 							</div>
 						</div>
 					</div>
