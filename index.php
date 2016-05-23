@@ -272,7 +272,7 @@
 							</div>
 							<div class="back">
 								<span class="brick-icon icon-arrow-left-3"></span>
-								<span class="brick-title">OUT NOW!</span>
+								<span class="brick-title">OUT NOW!!! CLICK TO DOWNLOAD</span>
 							</div>
 						</div>
 					</div>
@@ -302,7 +302,7 @@
 							</div>
 							<div class="back">
 								<span class="brick-icon icon-arrow-left-3"></span>
-								<span class="brick-title">OUT NOW!</span>
+								<span class="brick-title">OUT NOW!!! CLICK TO DOWNLOAD</span>
 							</div>
 						</div>
 					</div>
@@ -332,7 +332,7 @@
 							</div>
 							<div class="back">
 								<span class="brick-icon icon-arrow-left-3"></span>
-								<span class="brick-title">OUT NOW!</span>
+								<span class="brick-title">OUT NOW!!! CLICK TO DOWNLOAD</span>
 							</div>
 						</div>
 					</div>
