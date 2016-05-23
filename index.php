@@ -221,7 +221,7 @@
 		<div class="masonry">
 			<!-- brick -->
 			<div class="brick width-1-4 height-1-4">
-				<a href="https://pro.beatport.com/track/at-the-bitter-end-symeon-remix/7923746" class="thumb fap-single-track">
+				<a href="hplaceholders/mp3/at_the_bitter_end_sample.mp3" class="thumb fap-single-track">
 					<!-- Title and opacity mask -->
 					<div class="inner">
 						<h6>Play Sample</h6>
@@ -233,7 +233,7 @@
 				</a>
 			</div>
 			<div class="brick width-1-4 height-1-4">
-				<a href="placeholders/mp3/at_the_bitter_end_sample.mp3" class="thumb fap-single-track">
+				<a href="ttps://pro.beatport.com/track/at-the-bitter-end-symeon-remix/7923746" class="thumb fap-single-track">
 					<div class="flip-container">
 						<div class="flipper">
 							<div class="front" style="background:#333333">
