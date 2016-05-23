@@ -233,7 +233,7 @@
 				</a>
 			</div>
 			<div class="brick width-1-4 height-1-4">
-				<a href="https://pro.beatport.com/track/at-the-bitter-end-symeon-remix/7923746" class="thumb fap-single-track">
+				<a href="https://pro.beatport.com/track/at-the-bitter-end-symeon-remix/7923746" class="thumb">
 					<div class="flip-container">
 						<div class="flipper">
 							<div class="front" style="background:#333333">
