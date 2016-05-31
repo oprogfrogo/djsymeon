@@ -221,7 +221,7 @@
 		<div class="masonry">
 			<!-- brick -->
 			<div class="brick width-1-4 height-1-4">
-				<a href="hplaceholders/mp3/at_the_bitter_end_sample.mp3" class="thumb fap-single-track">
+				<a href="placeholders/mp3/at_the_bitter_end_sample.mp3" class="thumb fap-single-track">
 					<!-- Title and opacity mask -->
 					<div class="inner">
 						<h6>Play Sample</h6>
@@ -402,13 +402,10 @@
 			<!-- brick -->
 			<div class="brick width-1-4 height-1-4">
 				<a href="https://soundcloud.com/beergut247/symeon-spots" class="thumb fap-single-track">
-					<!-- Title and opacity mask -->
 					<div class="inner">
 						<h6>Play Sample</h6>
 					</div>
-					<!-- image -->
 					<img src="placeholders/album_covers/spots_symeon.jpg" alt="Release image" >
-					<!-- badge -->
 					<span class="badge free">Out Now!</span>
 				</a>
 			</div>
@@ -843,13 +840,40 @@
 	<div id="latest-mixes" class="section-container clearfix">
 		<div class="container">
 			<div class="row">
-				<h3>LISTEN & DOWNLOAD FREE FROM SOUNDCLOUD</h3>
-				<p>Deep House Mix on Apr 01, 2016</p>
-				<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/256790385&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-				<p>Progressive House Mix on Feb 28, 2016</p>
-				<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/249277181&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-				<p>Tech House Mix on Feb 27, 2016</p>
-				<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/249206933&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+				<h3>LISTEN TO MIXES</h3>
+				<div style="float: left; margin-right: 20px;">
+					<div>
+						<h3>Round Trip: Morning Mix</h3>
+						<img src="placeholders/mp3/round_trip_morning_mix.png" style="width: 300px">
+					</div>
+					<div>
+						<audio controls>
+					  		<source src="placeholders/mp3/round_trip_morning_mix.mp3" type="audio/mpeg">
+						</audio>
+					</div>
+				</div>
+				<div style="float: left; margin-right: 20px;">
+					<div>
+						<h3>Round Trip: Weekend Mix</h3>
+						<img src="placeholders/mp3/round_trip_weekend_mix.png" style="width: 300px">
+					</div>
+					<div>
+						<audio controls>
+						  <source src="placeholders/mp3/round_trip_weekend_mix.mp3" type="audio/mpeg">
+						</audio>
+	                </div>
+				</div>
+				<div style="float: left; margin-right: 20px;">
+					<div>
+						<h3>Round Trip: Tech Mix</h3>
+						<img src="placeholders/mp3/round_trip_tech_mix.png" style="width: 300px">
+					</div>
+					<div>
+						<audio controls>
+						  <source src="placeholders/mp3/round_trip_tech_mix.mp3" type="audio/mpeg">
+						</audio>
+	                </div>
+				</div>
 			</div>
 		</div>
 	</div>
