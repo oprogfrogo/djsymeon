@@ -221,6 +221,66 @@
 		<div class="masonry">
 			<!-- brick -->
 			<div class="brick width-1-4 height-1-4">
+				<a href="placeholders/mp3/moving_forward.mp3" class="thumb fap-single-track">
+					<!-- Title and opacity mask -->
+					<div class="inner">
+						<h6>Play Sample</h6>
+					</div>
+					<!-- image -->
+					<img src="placeholders/album_covers/moving_forward.png" alt="Release image" >
+					<!-- badge -->
+					<span class="badge free">SOON!!!</span>
+				</a>
+			</div>
+			<div class="brick width-1-4 height-1-4">
+				<a href="placeholders/mp3/moving_forward.mp3" class="thumb">
+					<div class="flip-container">
+						<div class="flipper">
+							<div class="front" style="background:#333333">
+								<span class="brick-icon icon-arrow-left-3"></span>
+								<span class="brick-title">COMING SOON!! - CLICK HERE TO LISTEN!!<br> Moving Forward (Symeon Remix)</span>
+							</div>
+							<div class="back">
+								<span class="brick-icon icon-arrow-left-3"></span>
+								<span class="brick-title">COMING SOON!!! CLICK TO LISTEN</span>
+							</div>
+						</div>
+					</div>
+				</a>
+			</div>
+			<!-- /brick -->
+			<!-- brick -->
+			<div class="brick width-1-4 height-1-4">
+				<a href="placeholders/mp3/i_got_the_feel.mp3" class="thumb fap-single-track">
+					<!-- Title and opacity mask -->
+					<div class="inner">
+						<h6>Play Sample</h6>
+					</div>
+					<!-- image -->
+					<img src="placeholders/album_covers/i_got_the_feel.png" alt="Release image" >
+					<!-- badge -->
+					<span class="badge free">SOON!!!</span>
+				</a>
+			</div>
+			<div class="brick width-1-4 height-1-4">
+				<a href="placeholders/mp3/i_got_the_feel.mp3" class="thumb">
+					<div class="flip-container">
+						<div class="flipper">
+							<div class="front" style="background:#333333">
+								<span class="brick-icon icon-arrow-left-3"></span>
+								<span class="brick-title">COMING SOON!! - CLICK HERE TO LISTEN!!<br> I Got the Feel (Symeon Remix)</span>
+							</div>
+							<div class="back">
+								<span class="brick-icon icon-arrow-left-3"></span>
+								<span class="brick-title">COMING SOON!!! CLICK TO LISTEN</span>
+							</div>
+						</div>
+					</div>
+				</a>
+			</div>
+			<!-- /brick -->
+			<!-- brick -->
+			<div class="brick width-1-4 height-1-4">
 				<a href="placeholders/mp3/at_the_bitter_end_sample.mp3" class="thumb fap-single-track">
 					<!-- Title and opacity mask -->
 					<div class="inner">
@@ -333,123 +393,6 @@
 							<div class="back">
 								<span class="brick-icon icon-arrow-left-3"></span>
 								<span class="brick-title">OUT NOW!!! CLICK TO DOWNLOAD</span>
-							</div>
-						</div>
-					</div>
-				</a>
-			</div>
-			<!-- /brick -->
-			<!-- brick -->
-			<div class="brick width-1-4 height-1-4">
-				<a href="placeholders/mp3/site_promo_feel_so_free.mp3" class="thumb fap-single-track">
-					<!-- Title and opacity mask -->
-					<div class="inner">
-						<h6>Play Sample</h6>
-					</div>
-					<!-- image -->
-					<img src="placeholders/album_covers/feel_so_free_symeon.jpg" alt="Release image" >
-					<!-- badge -->
-					<span class="badge free">Out Now!</span>
-				</a>
-			</div>
-			<div class="brick width-1-4 height-1-4">
-				<a href="http://pro.beatport.com/track/feel-so-free-feat-lulu-jones-feat-lulu-jones-original-mix/7424580" class="thumb">
-					<div class="flip-container">
-						<div class="flipper">
-							<div class="front" style="background:#333333">
-								<span class="brick-icon icon-arrow-left-3"></span>
-								<span class="brick-title">DOWNLOAD NOW - CLICK HERE TO DOWNLOAD!! <br> Feel So Free by Symeon (Original Mix)</span>
-							</div>
-							<div class="back">
-								<span class="brick-icon icon-arrow-left-3"></span>
-								<span class="brick-title">Download from Beatport (Released December 18, 2015)</span>
-							</div>
-						</div>
-					</div>
-				</a>
-			</div>
-			<!-- /brick -->
-			<!-- brick -->
-			<div class="brick width-1-4 height-1-4">
-				<a href="placeholders/mp3/site_promo_feel_so_free_cds_remix.mp3" class="thumb fap-single-track">
-					<!-- Title and opacity mask -->
-					<div class="inner">
-						<h6>Play Sample</h6>
-					</div>
-					<!-- image -->
-					<img src="placeholders/album_covers/feel_so_free_symeon.jpg" alt="Release image" >
-					<!-- badge -->
-					<span class="badge free">Out Now!</span>
-				</a>
-			</div>
-			<div class="brick width-1-4 height-1-4">
-				<a href="https://pro.beatport.com/track/feel-so-free-feat-lulu-jones-feat-lulu-jones-remix/7424581" class="thumb">
-					<div class="flip-container">
-						<div class="flipper">
-							<div class="front" style="background:#333333">
-								<span class="brick-icon icon-arrow-left-3"></span>
-								<span class="brick-title">DOWNLOAD NOW - CLICK HERE TO DOWNLOAD!! <br> Feel So Free by Symeon (Channa De Silva Remix)</span>
-							</div>
-							<div class="back">
-								<span class="brick-icon icon-arrow-left-3"></span>
-								<span class="brick-title">Download from Beatport (Released December 18, 2015)</span>
-							</div>
-						</div>
-					</div>
-				</a>
-			</div>
-			<!-- /brick -->
-			<!-- brick -->
-			<div class="brick width-1-4 height-1-4">
-				<a href="https://soundcloud.com/beergut247/symeon-spots" class="thumb fap-single-track">
-					<div class="inner">
-						<h6>Play Sample</h6>
-					</div>
-					<img src="placeholders/album_covers/spots_symeon.jpg" alt="Release image" >
-					<span class="badge free">Out Now!</span>
-				</a>
-			</div>
-			<div class="brick width-1-4 height-1-4">
-				<a href="https://soundcloud.com/beergut247/symeon-spots" class="thumb">
-					<div class="flip-container">
-						<div class="flipper">
-							<div class="front" style="background:#333333">
-								<span class="brick-icon icon-arrow-left-3"></span>
-								<span class="brick-title">DOWNLOAD NOW - CLICK HERE TO DOWNLOAD!! <br> Spots by Symeon (Original Mix)</span>
-							</div>
-							<div class="back">
-								<span class="brick-icon icon-arrow-left-3"></span>
-								<span class="brick-title">Download from Beatport (Released December 18, 2015)</span>
-							</div>
-						</div>
-					</div>
-				</a>
-			</div>
-			<!-- /brick -->
-			<!-- brick -->
-			<div class="brick width-1-4 height-1-4">
-				<a href="https://pro.beatport.com/track/transfers-original-mix/6641443" class="thumb fap-single-track">
-					<!-- Title and opacity mask -->
-					<div class="inner">
-						<h6>Play Sample</h6>
-					</div>
-					<!-- image -->
-					<img src="placeholders/album_covers/transfers_symeon.jpg" alt="Release image" >
-					<!-- badge -->
-					<span class="badge free">Out Now!</span>
-				</a>
-			</div>
-			<div class="brick width-1-4 height-1-4">
-				<a href="https://pro.beatport.com/track/transfers-original-mix/6641443" class="thumb">
-					<div class="flip-container">
-						<div class="flipper">
-							<div class="front" style="background:#333333">
-								<span class="brick-icon icon-arrow-left-3"></span>
-								<span class="brick-title">DOWNLOAD NOW - CLICK HERE TO DOWNLOAD!! <br> Transfers by Symeon (Original Mix)</span>
-							</div>
-							<div class="back">
-								<span class="brick-icon icon-arrow-left-3"></span>
-								<span class="brick-title">Download from Beatport (Released May 21, 2015)</span>
 							</div>
 						</div>
 					</div>
