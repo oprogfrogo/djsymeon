@@ -204,6 +204,59 @@
 <!-- /project container -->
 
 
+<section id="mixes" class="section">
+	<!-- ############ Paralax Intro ############ -->
+	<div id="portfolio-header" class="section-header parallax clearfix" style="background-image: url(placeholders/release-header-1920x1000.jpg)" data-interia="0.1">
+		<div class="overlay"></div>
+		<div class="container clearfix">
+			<img src="placeholders/symeon_logo_2016.png" class="aligncenter" alt="footer-logo" width="400">
+			<h2 class="section-heading">MIXES</h2>
+		</div>
+	</div>
+	<!-- /parallax intro -->
+	<div id="latest-mixes" class="section-container clearfix">
+		<div class="container">
+			<div class="row">
+				<h3>LISTEN TO MIXES</h3>
+				<div style="float: left; margin-right: 20px;">
+					<div>
+						<h3>Round Trip: Morning Mix</h3>
+						<img src="placeholders/mp3/round_trip_morning_mix.png" style="width: 300px">
+					</div>
+					<div>
+						<audio controls>
+					  		<source src="placeholders/mp3/round_trip_morning_mix.mp3" type="audio/mpeg">
+						</audio>
+					</div>
+				</div>
+				<div style="float: left; margin-right: 20px;">
+					<div>
+						<h3>Round Trip: Weekend Mix</h3>
+						<img src="placeholders/mp3/round_trip_weekend_mix.png" style="width: 300px">
+					</div>
+					<div>
+						<audio controls>
+						  <source src="placeholders/mp3/round_trip_weekend_mix.mp3" type="audio/mpeg">
+						</audio>
+	                </div>
+				</div>
+				<div style="float: left; margin-right: 20px;">
+					<div>
+						<h3>Round Trip: Tech Mix</h3>
+						<img src="placeholders/mp3/round_trip_tech_mix.png" style="width: 300px">
+					</div>
+					<div>
+						<audio controls>
+						  <source src="placeholders/mp3/round_trip_tech_mix.mp3" type="audio/mpeg">
+						</audio>
+	                </div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+
 <!-- ############################# masonry news ############################# -->
 <section id="masonry-news" class="masonry-news clearfix">
 	<!-- ############ Paralax Intro ############ -->
@@ -770,57 +823,7 @@
 <!-- /bio -->
 
 
-<section id="mixes" class="section">
-	<!-- ############ Paralax Intro ############ -->
-	<div id="portfolio-header" class="section-header parallax clearfix" style="background-image: url(placeholders/release-header-1920x1000.jpg)" data-interia="0.1">
-		<div class="overlay"></div>
-		<div class="container clearfix">
-			<img src="placeholders/symeon_logo_2016.png" class="aligncenter" alt="footer-logo" width="400">
-			<h2 class="section-heading">MIXES</h2>
-		</div>
-	</div>
-	<!-- /parallax intro -->
-	<div id="latest-mixes" class="section-container clearfix">
-		<div class="container">
-			<div class="row">
-				<h3>LISTEN TO MIXES</h3>
-				<div style="float: left; margin-right: 20px;">
-					<div>
-						<h3>Round Trip: Morning Mix</h3>
-						<img src="placeholders/mp3/round_trip_morning_mix.png" style="width: 300px">
-					</div>
-					<div>
-						<audio controls>
-					  		<source src="placeholders/mp3/round_trip_morning_mix.mp3" type="audio/mpeg">
-						</audio>
-					</div>
-				</div>
-				<div style="float: left; margin-right: 20px;">
-					<div>
-						<h3>Round Trip: Weekend Mix</h3>
-						<img src="placeholders/mp3/round_trip_weekend_mix.png" style="width: 300px">
-					</div>
-					<div>
-						<audio controls>
-						  <source src="placeholders/mp3/round_trip_weekend_mix.mp3" type="audio/mpeg">
-						</audio>
-	                </div>
-				</div>
-				<div style="float: left; margin-right: 20px;">
-					<div>
-						<h3>Round Trip: Tech Mix</h3>
-						<img src="placeholders/mp3/round_trip_tech_mix.png" style="width: 300px">
-					</div>
-					<div>
-						<audio controls>
-						  <source src="placeholders/mp3/round_trip_tech_mix.mp3" type="audio/mpeg">
-						</audio>
-	                </div>
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
+
 
 
 
