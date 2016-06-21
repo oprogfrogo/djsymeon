@@ -274,6 +274,36 @@
 		<div class="masonry">
 			<!-- brick -->
 			<div class="brick width-1-4 height-1-4">
+				<a href="placeholders/mp3/the_beautiful_things.mp3" class="thumb fap-single-track">
+					<!-- Title and opacity mask -->
+					<div class="inner">
+						<h6>Play Sample</h6>
+					</div>
+					<!-- image -->
+					<img src="placeholders/album_covers/the_beautiful_things.png" alt="Release image" >
+					<!-- badge -->
+					<span class="badge free">SOON!!!</span>
+				</a>
+			</div>
+			<div class="brick width-1-4 height-1-4">
+				<a href="placeholders/mp3/the_beautiful_things.mp3" class="thumb">
+					<div class="flip-container">
+						<div class="flipper">
+							<div class="front" style="background:#333333">
+								<span class="brick-icon icon-arrow-left-3"></span>
+								<span class="brick-title">COMING SOON!! - CLICK HERE TO LISTEN!!<br> The Beautiful Things by Symeon (Original Mix)</span>
+							</div>
+							<div class="back">
+								<span class="brick-icon icon-arrow-left-3"></span>
+								<span class="brick-title">COMING SOON!!! CLICK TO LISTEN</span>
+							</div>
+						</div>
+					</div>
+				</a>
+			</div>
+			<!-- /brick -->
+			<!-- brick -->
+			<div class="brick width-1-4 height-1-4">
 				<a href="placeholders/mp3/moving_forward.mp3" class="thumb fap-single-track">
 					<!-- Title and opacity mask -->
 					<div class="inner">
