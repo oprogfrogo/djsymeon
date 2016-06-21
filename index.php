@@ -84,7 +84,7 @@
 		<!-- ############ header button ############ -->
 		<!-- <a id="intro-button" class="smooth-scroll" href="#upcoming-event"><span>ENTER</span></a> -->
 		<!-- ############ scroll arrows ############ -->
-		<a id="scroll-arrows" class="smooth-scroll" href="#masonry-news"><img src="img/scroll-arrows.png" alt="scroll down"></a>
+		<a id="scroll-arrows" class="smooth-scroll" href="#mixes"><img src="img/scroll-arrows.png" alt="scroll down"></a>
 	</div>
 	<!-- /container -->
 </section>
