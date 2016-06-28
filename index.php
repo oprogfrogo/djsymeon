@@ -879,9 +879,9 @@
 					<p>
 						SYMEON Brings emotionally elevating tracks to the dance
 						music scene with a fusion of Vocals, Trance, House music.
-						His influences comes from his love for Trance. Soon
-						later he started experimenting with other genres such as
-						house, disco house, and deep house. He graduated with a
+						His influences comes from his love for Trance. Later he started
+						experimenting with other genres such as house, disco
+						house, and deep house. He graduated with a
 						degree in Audio Recording and applied those skills to
 						doing what he does today. It's the kind of music that
 						you can't help but to sing along to.
