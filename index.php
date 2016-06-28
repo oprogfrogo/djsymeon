@@ -162,22 +162,22 @@
                         </ul>
                     </li> -->
 					<li>
+						<a href="#mixes">Mixes</a>
+					</li>
+					<li>
+						<a href="#upcoming-event">Upcoming Events</a>
+					</li>
+					<li>
 						<a href="#new_tracks">New Tracks</a>
 					</li>
 					<li>
-						<a href="#portfolio">Library</a>
+						<a href="#portfolio">Track Library</a>
 					</li>
-					<!-- <li>
-						<a href="#events">Events</a>
-					</li> -->
 					<li>
 						<a href="#bio">Biography</a>
 					</li>
 					<li>
-						<a href="#mixes">Mixes</a>
-					</li>
-					<li>
-						<a href="#contact">Contact</a>
+						<a href="#contact">Contact Me</a>
 					</li>
 					<li>
 						<a href="#newsletter">Subscribe</a>
@@ -207,7 +207,7 @@
 
 <section id="mixes" class="section">
 	<!-- ############ Paralax Intro ############ -->
-	<div id="portfolio-header" class="section-header parallax clearfix" style="background-image: url(placeholders/release-header-1920x1000.jpg)" data-interia="0.1">
+	<div id="mixes" class="section-header parallax clearfix" style="background-image: url(placeholders/release-header-1920x1000.jpg)" data-interia="0.1">
 		<div class="overlay"></div>
 		<div class="container clearfix">
 			<img src="placeholders/symeon_logo_2016.png" class="aligncenter" alt="footer-logo" width="400">
@@ -257,6 +257,40 @@
 	</div>
 </section>
 
+<!-- ############################# upcoming event ############################# -->
+<section id="events" class="event-countdown">
+	<!-- ############ Paralax Intro ############ -->
+	<div id="upcoming-event" class="section-header parallax clearfix" style="background-image: url(placeholders/release-header-1920x1000.jpg)" data-interia="0.1">
+		<div class="overlay"></div>
+		<div class="container clearfix">
+			<img src="placeholders/symeon_logo_2016.png" class="aligncenter" alt="footer-logo" width="400">
+			<h2 class="section-heading">UPCOMING EVENTS</h2>
+		</div>
+	</div>
+	<!-- /parallax intro -->
+	<!-- container -->
+	<div class="container clearfix">
+		<!-- ############ content header ############ -->
+		<header class="content-header">
+			<h6 class="upcoming-event">Upcoming Event</h6>
+			<h2 class="content-title">1P36 Deletion Syndrome Fundraiser by iRED Recordings</h2>
+			<span class="sub-heading">2212 Artesia Blvd, Torrance, California 90504</span>
+			<img src="img/1p36_deletion_fundraiser.jpg" style="width: 500px" />
+		</header>
+		<!-- /content header -->
+		<!-- countdown -->
+		<div class="countdown" data-event-date="2016/07/10 14:00:00">
+			<div class="days" data-label="Days">000</div>
+			<div class="hours" data-label="Hours">000</div>
+			<div class="minutes" data-label="Minutes">000</div>
+			<div class="seconds" data-label="Seconds">000</div>
+		</div>
+		<!-- /countdown -->
+	</div>
+	<!-- /container -->
+</section>
+<!-- /upcoming event -->
+
 
 <!-- ############################# masonry news ############################# -->
 <section id="masonry-news" class="masonry-news clearfix">
@@ -273,6 +307,36 @@
 	<div class="container clearfix">
 		<!-- ############ masonry ############ -->
 		<div class="masonry">
+			<!-- brick -->
+			<div class="brick width-1-4 height-1-4">
+				<a href="placeholders/mp3/downtown.mp3" class="thumb fap-single-track">
+					<!-- Title and opacity mask -->
+					<div class="inner">
+						<h6>Play Sample</h6>
+					</div>
+					<!-- image -->
+					<img src="placeholders/album_covers/downtown.png" alt="Release image" >
+					<!-- badge -->
+					<span class="badge free">SOON!!!</span>
+				</a>
+			</div>
+			<div class="brick width-1-4 height-1-4">
+				<a href="placeholders/mp3/downtown.mp3" class="thumb">
+					<div class="flip-container">
+						<div class="flipper">
+							<div class="front" style="background:#333333">
+								<span class="brick-icon icon-arrow-left-3"></span>
+								<span class="brick-title">COMING SOON!! - CLICK HERE TO LISTEN!!<br> Downtown by Symeon (Original Mix)</span>
+							</div>
+							<div class="back">
+								<span class="brick-icon icon-arrow-left-3"></span>
+								<span class="brick-title">COMING SOON!!! CLICK TO LISTEN</span>
+							</div>
+						</div>
+					</div>
+				</a>
+			</div>
+			<!-- /brick -->
 			<!-- brick -->
 			<div class="brick width-1-4 height-1-4">
 				<a href="placeholders/mp3/the_beautiful_things.mp3" class="thumb fap-single-track">
@@ -934,7 +998,7 @@
 		<img src="placeholders/symeon_logo_2016.png" class="aligncenter" alt="footer-logo" width="400">
 			<!-- ############ content header ############ -->
 			<header class="content-header">
-				<h1 class="content-title">Get in Touch</h1>
+				<h1 class="content-title">Contact Me</h1>
 				<span class="sub-heading">Do not hesitate to booking me!</span>
 				<hr class="content-line">
 			</header>
