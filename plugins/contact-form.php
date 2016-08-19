@@ -34,16 +34,16 @@ if(isset($_POST['name']) && empty($_POST['spam-check'])) {
 	if(!$error) {
 
 		// No errors, send mail using conditional to ensure it was sent
-		$from = new SendGrid\Email("Example User", "test@example.com");
-		$subject = "Sending with SendGrid is Fun";
-		$to = new SendGrid\Email("Example User", "test@example.com");
-		$content = new SendGrid\Content("text/plain", "and easy to do anywhere, even with PHP");
+		$from = new SendGrid\Email($input_name, $input_email);
+		$subject = $input_subject;
+		$to = new SendGrid\Email("DJ Symeon", "symeonsounds@gmail.com");
+		$content = new SendGrid\Content("text/plain", $input_message);
 		$mail = new SendGrid\Mail($from, $subject, $to, $content);
 
 		$sg = new \SendGrid('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');
 
 		$response = $sg->client->mail()->send()->post($mail);
-		// echo $response->statusCode();
+		echo $response->statusCode();
 		if($response->statusCode() == '202') {
 			echo '<p class="success">Your email has been sent!</p>';
 		} else {
