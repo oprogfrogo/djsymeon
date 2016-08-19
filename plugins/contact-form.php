@@ -43,7 +43,7 @@ if(isset($_POST['name']) && empty($_POST['spam-check'])) {
 		$sg = new \SendGrid('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');
 
 		$response = $sg->client->mail()->send()->post($mail);
-		echo $response->statusCode();
+		// echo $response->statusCode();
 		if($response->statusCode() == '202') {
 			echo '<p class="success">Your email has been sent!</p>';
 		} else {
