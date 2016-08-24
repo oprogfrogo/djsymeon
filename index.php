@@ -63,7 +63,7 @@ DJ Symeon
 
 <!-- ############################# intro ############################# -->
 <section id="intro" class="intro-resize parallax clearfix" style="background-image: url(placeholders/djsymeon_with_logo.png); background-size: 760px auto; background-repeat: no-repeat; background-color: #000;">
-	<img src="img/ired_recording.jpg" style="width: 130px" />
+	<img src="img/ired_recording.jpg" id="ired-logo" style="width: 130px" />
 	<!-- animated bg -->
 	<div class="intro-bg"></div>
 	<!-- container -->
