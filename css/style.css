@@ -1555,6 +1555,12 @@ ul.stats {
     	right: 0;
 		text-align: center;
 	}
+	
+	@media only screen and (max-width: 480px) {
+	    .intro-resize {
+	        background-size: 360px !important;
+	    }
+	}
 
 
 	/* Intro logo
