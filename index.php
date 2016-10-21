@@ -231,44 +231,44 @@
 				<h3>LISTEN TO MIXES</h3>
 				<div style="float: left; margin-right: 20px;">
 					<div>
-						<img src="placeholders/mp3/round_trip_funk_mix.png" style="width: 300px">
+						<img src="https://s3-us-west-2.amazonaws.com/djsymeon/round_trip_funk_mix.png" style="width: 300px">
 					</div>
 					<div>
 						<audio controls>
-					  		<source src="placeholders/mp3/round_trip_funk_mix.mp3" type="audio/mpeg">
+					  		<source src="https://s3-us-west-2.amazonaws.com/djsymeon/round_trip_funk_mix.mp3" type="audio/mpeg">
 						</audio>
 					</div>
 					<h3>Round Trip: Funk Mix</h3>
 				</div>
 				<div style="float: left; margin-right: 20px;">
 					<div>
-						<img src="placeholders/mp3/round_trip_morning_mix.png" style="width: 300px">
+						<img src="https://s3-us-west-2.amazonaws.com/djsymeon/round_trip_morning_mix.png" style="width: 300px">
 					</div>
 					<div>
 						<audio controls>
-					  		<source src="placeholders/mp3/round_trip_morning_mix.mp3" type="audio/mpeg">
+					  		<source src="https://s3-us-west-2.amazonaws.com/djsymeon/round_trip_morning_mix.mp3" type="audio/mpeg">
 						</audio>
 					</div>
 					<h3>Round Trip: Morning Mix</h3>
 				</div>
 				<div style="float: left; margin-right: 20px;">
 					<div>
-						<img src="placeholders/mp3/round_trip_weekend_mix.png" style="width: 300px">
+						<img src="https://s3-us-west-2.amazonaws.com/djsymeon/round_trip_weekend_mix.png" style="width: 300px">
 					</div>
 					<div>
 						<audio controls>
-						  <source src="placeholders/mp3/round_trip_weekend_mix.mp3" type="audio/mpeg">
+						  <source src="https://s3-us-west-2.amazonaws.com/djsymeon/round_trip_weekend_mix.mp3" type="audio/mpeg">
 						</audio>
 	        </div>
 					<h3>Round Trip: Weekend Mix</h3>
 				</div>
 				<div style="float: left; margin-right: 20px;">
 					<div>
-						<img src="placeholders/mp3/round_trip_tech_mix.png" style="width: 300px">
+						<img src="https://s3-us-west-2.amazonaws.com/djsymeon/round_trip_tech_mix.png" style="width: 300px">
 					</div>
 					<div>
 						<audio controls>
-						  <source src="placeholders/mp3/round_trip_tech_mix.mp3" type="audio/mpeg">
+						  <source src="https://s3-us-west-2.amazonaws.com/djsymeon/round_trip_tech_mix.mp3" type="audio/mpeg">
 						</audio>
           </div>
 					<h3>Round Trip: Tech Mix</h3>
@@ -325,19 +325,19 @@
 		<div class="masonry">
 			<!-- brick -->
 			<div class="brick width-1-4 height-1-4">
-				<a href="placeholders/mp3/the_beautiful_things.mp3" class="thumb fap-single-track">
+				<a href="https://s3-us-west-2.amazonaws.com/djsymeon/the_beautiful_things.mp3" class="thumb fap-single-track">
 					<!-- Title and opacity mask -->
 					<div class="inner">
 						<h6>Play Sample</h6>
 					</div>
 					<!-- image -->
-					<img src="placeholders/album_covers/the_beautiful_things.png" alt="Release image" >
+					<img src="https://s3-us-west-2.amazonaws.com/djsymeon/the_beautiful_things.png" alt="Release image" >
 					<!-- badge -->
 					<span class="badge free">OUT NOW!!!</span>
 				</a>
 			</div>
 			<div class="brick width-1-4 height-1-4">
-				<a href="placeholders/mp3/the_beautiful_things.mp3" class="thumb">
+				<a href="https://s3-us-west-2.amazonaws.com/djsymeon/the_beautiful_things.mp3" class="thumb">
 					<div class="flip-container">
 						<div class="flipper">
 							<div class="front" style="background:#333333">
@@ -355,19 +355,19 @@
 			<!-- /brick -->
 			<!-- brick -->
 			<div class="brick width-1-4 height-1-4">
-				<a href="placeholders/mp3/give_me_your_love.mp3" class="thumb fap-single-track">
+				<a href="https://s3-us-west-2.amazonaws.com/djsymeon/give_me_your_love.mp3" class="thumb fap-single-track">
 					<!-- Title and opacity mask -->
 					<div class="inner">
 						<h6>Play Sample</h6>
 					</div>
 					<!-- image -->
-					<img src="placeholders/album_covers/give_me_your_love.png" alt="Release image" >
+					<img src="https://s3-us-west-2.amazonaws.com/djsymeon/give_me_your_love.png" alt="Release image" >
 					<!-- badge -->
 					<span class="badge free">SOON!!!</span>
 				</a>
 			</div>
 			<div class="brick width-1-4 height-1-4">
-				<a href="placeholders/mp3/give_me_your_love.mp3" class="thumb">
+				<a href="https://s3-us-west-2.amazonaws.com/djsymeon/give_me_your_love.mp3" class="thumb">
 					<div class="flip-container">
 						<div class="flipper">
 							<div class="front" style="background:#333333">
@@ -385,19 +385,19 @@
 			<!-- /brick -->
 			<!-- brick -->
 			<div class="brick width-1-4 height-1-4">
-				<a href="placeholders/mp3/with_you.mp3" class="thumb fap-single-track">
+				<a href="https://s3-us-west-2.amazonaws.com/djsymeon/with_you.mp3" class="thumb fap-single-track">
 					<!-- Title and opacity mask -->
 					<div class="inner">
 						<h6>Play Sample</h6>
 					</div>
 					<!-- image -->
-					<img src="placeholders/album_covers/with_you.png" alt="Release image" >
+					<img src="https://s3-us-west-2.amazonaws.com/djsymeon/with_you.png" alt="Release image" >
 					<!-- badge -->
 					<span class="badge free">SOON!!!</span>
 				</a>
 			</div>
 			<div class="brick width-1-4 height-1-4">
-				<a href="placeholders/mp3/with_you.mp3" class="thumb">
+				<a href="https://s3-us-west-2.amazonaws.com/djsymeon/with_you.mp3" class="thumb">
 					<div class="flip-container">
 						<div class="flipper">
 							<div class="front" style="background:#333333">
@@ -415,13 +415,13 @@
 			<!-- /brick -->
 			<!-- brick -->
 			<div class="brick width-1-4 height-1-4">
-				<a href="placeholders/mp3/at_the_bitter_end_sample.mp3" class="thumb fap-single-track">
+				<a href="https://s3-us-west-2.amazonaws.com/djsymeon/at_the_bitter_end_sample.mp3" class="thumb fap-single-track">
 					<!-- Title and opacity mask -->
 					<div class="inner">
 						<h6>Play Sample</h6>
 					</div>
 					<!-- image -->
-					<img src="placeholders/album_covers/at_the_bitter_end_sinisha_symeon.jpg" alt="Release image" >
+					<img src="https://s3-us-west-2.amazonaws.com/djsymeon/at_the_bitter_end_sinisha_symeon.jpg" alt="Release image" >
 					<!-- badge -->
 					<span class="badge free">OUT NOW!!!</span>
 				</a>
@@ -445,13 +445,13 @@
 			<!-- /brick -->
 			<!-- brick -->
 			<div class="brick width-1-4 height-1-4">
-				<a href="placeholders/mp3/when_the_night_falls_sample.mp3" class="thumb fap-single-track">
+				<a href="https://s3-us-west-2.amazonaws.com/djsymeon/when_the_night_falls_sample.mp3" class="thumb fap-single-track">
 					<!-- Title and opacity mask -->
 					<div class="inner">
 						<h6>Play Sample</h6>
 					</div>
 					<!-- image -->
-					<img src="placeholders/album_covers/when_the_night_falls.jpg" alt="Release image" >
+					<img src="https://s3-us-west-2.amazonaws.com/djsymeon/when_the_night_falls.jpg" alt="Release image" >
 					<!-- badge -->
 					<span class="badge free">OUT NOW!</span>
 				</a>
@@ -475,13 +475,13 @@
 			<!-- /brick -->
 			<!-- brick -->
 			<div class="brick width-1-4 height-1-4">
-				<a href="placeholders/mp3/wbh_symeon.mp3" class="thumb fap-single-track">
+				<a href="https://s3-us-west-2.amazonaws.com/djsymeon/wbh_symeon.mp3" class="thumb fap-single-track">
 					<!-- Title and opacity mask -->
 					<div class="inner">
 						<h6>Play Sample</h6>
 					</div>
 					<!-- image -->
-					<img src="placeholders/album_covers/well_be_here_symeon.jpg" alt="Release image" >
+					<img src="https://s3-us-west-2.amazonaws.com/djsymeon/well_be_here_symeon.jpg" alt="Release image" >
 					<!-- badge -->
 					<span class="badge free">OUT NOW!</span>
 				</a>
@@ -505,13 +505,13 @@
 			<!-- /brick -->
 			<!-- brick -->
 			<div class="brick width-1-4 height-1-4">
-				<a href="placeholders/mp3/wbh_cds.mp3" class="thumb fap-single-track">
+				<a href="https://s3-us-west-2.amazonaws.com/djsymeon/wbh_cds.mp3" class="thumb fap-single-track">
 					<!-- Title and opacity mask -->
 					<div class="inner">
 						<h6>Play Sample</h6>
 					</div>
 					<!-- image -->
-					<img src="placeholders/album_covers/well_be_here_symeon.jpg" alt="Release image" >
+					<img src="https://s3-us-west-2.amazonaws.com/djsymeon/well_be_here_symeon.jpg" alt="Release image" >
 					<!-- badge -->
 					<span class="badge free">OUT NOW!</span>
 				</a>
@@ -620,7 +620,7 @@
 				</div>
 				<!-- /title and opacity mask -->
 				<!-- image -->
-				<img class="lazy" src="placeholders/album_covers/well_be_here_symeon.jpg" data-src="placeholders/album_covers/well_be_here_symeon.jpg" alt="Release image" >
+				<img class="lazy" src="https://s3-us-west-2.amazonaws.com/djsymeon/well_be_here_symeon.jpg" data-src="https://s3-us-west-2.amazonaws.com/djsymeon/well_be_here_symeon.jpg" alt="Release image" >
 				<!-- badge -->
 				<span class="badge new">NEW</span>
 				<!-- tooltip -->
@@ -642,7 +642,7 @@
 				</div>
 				<!-- /title and opacity mask -->
 				<!-- image -->
-				<img class="lazy" src="placeholders/album_covers/feel_so_free_symeon.jpg" data-src="placeholders/album_covers/feel_so_free_symeon.jpg" alt="Release image" >
+				<img class="lazy" src="https://s3-us-west-2.amazonaws.com/djsymeon/feel_so_free_symeon.jpg" data-src="https://s3-us-west-2.amazonaws.com/djsymeon/feel_so_free_symeon.jpg" alt="Release image" >
 				<!-- badge -->
 				<span class="badge new">NEW</span>
 				<!-- tooltip -->
@@ -663,7 +663,7 @@
 					<h6>Feel So Free <span>(Channa De Silva Remix)</span></h6>
 				</div>
 				<!-- /title and opacity mask -->
-				<img class="lazy" src="placeholders/album_covers/feel_so_free_symeon.jpg" data-src="placeholders/album_covers/feel_so_free_symeon.jpg" alt="Release image" >
+				<img class="lazy" src="https://s3-us-west-2.amazonaws.com/djsymeon/feel_so_free_symeon.jpg" data-src="https://s3-us-west-2.amazonaws.com/djsymeon/feel_so_free_symeon.jpg" alt="Release image" >
 				<!-- badge -->
 				<span class="badge new">NEW</span>
 				<!-- tooltip -->
@@ -684,7 +684,7 @@
 					<h6>Spots <span>(Original Mix)</span></h6>
 				</div>
 				<!-- /title and opacity mask -->
-				<img class="lazy" src="placeholders/album_covers/spots_symeon.jpg" data-src="placeholders/album_covers/spots_symeon.jpg" alt="Release image" >
+				<img class="lazy" src="https://s3-us-west-2.amazonaws.com/djsymeon/spots_symeon.jpg" data-src="https://s3-us-west-2.amazonaws.com/djsymeon/spots_symeon.jpg" alt="Release image" >
 				<!-- badge -->
 				<span class="badge new">NEW</span>
 				<!-- tooltip -->
@@ -705,7 +705,7 @@
 					<h6>Transfers <span>(Original Mix)</span></h6>
 				</div>
 				<!-- /title and opacity mask -->
-				<img class="lazy" src="placeholders/album_covers/transfers_symeon.jpg" data-src="placeholders/album_covers/transfers_symeon.jpg" alt="Release image" >
+				<img class="lazy" src="https://s3-us-west-2.amazonaws.com/djsymeon/transfers_symeon.jpg" data-src="https://s3-us-west-2.amazonaws.com/djsymeon/transfers_symeon.jpg" alt="Release image" >
 				<!-- badge -->
 				<span class="badge new">NEW</span>
 				<!-- tooltip -->
@@ -1118,9 +1118,9 @@
 
 <!-- ############################# fullwidth player ############################# -->
 <div id="fap">
-	<!-- <a href="placeholders/mp3/demo01.mp3" title="Smash It Up - Main" data-cover="placeholders/release07-360x360.jpg"></a>
-	<a href="placeholders/mp3/demo02.mp3" title="Smash It Up - Loop" data-cover="placeholders/release08-360x360.jpg"></a> -->
-	<!-- <a href="placeholders/mp3/demo03.mp3" title="Smash It Up - Tom" data-cover="placeholders/release09-360x360.jpg"></a> -->
+	<!-- <a href="https://s3-us-west-2.amazonaws.com/djsymeon/demo01.mp3" title="Smash It Up - Main" data-cover="placeholders/release07-360x360.jpg"></a>
+	<a href="https://s3-us-west-2.amazonaws.com/djsymeon/demo02.mp3" title="Smash It Up - Loop" data-cover="placeholders/release08-360x360.jpg"></a> -->
+	<!-- <a href="https://s3-us-west-2.amazonaws.com/djsymeon/demo03.mp3" title="Smash It Up - Tom" data-cover="placeholders/release09-360x360.jpg"></a> -->
 </div>
 <!-- fullwidth player -->
 
