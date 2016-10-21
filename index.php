@@ -215,13 +215,34 @@ DJ Symeon on HEROKU
 		</div>
 	</div>
 	<!-- /parallax intro -->
+	<!-- /play one mix at a time -->
+	<script>
+	$(function(){
+    $("audio").on("play", function() {
+        $("audio").not(this).each(function(index, audio) {
+            audio.pause();
+        });
+    });
+	});
+	</script>
+	<!-- /play one mix at a time -->
 	<div id="latest-mixes" class="section-container clearfix">
 		<div class="container">
 			<div class="row">
 				<h3>LISTEN TO MIXES</h3>
 				<div style="float: left; margin-right: 20px;">
 					<div>
-						<h3>Round Trip: Morning Mix</h3>
+						<img src="placeholders/mp3/round_trip_funk_mix.png" style="width: 300px">
+					</div>
+					<div>
+						<audio controls>
+					  		<source src="placeholders/mp3/round_trip_funk_mix.mp3" type="audio/mpeg">
+						</audio>
+					</div>
+					<h3>Round Trip: Funk Mix</h3>
+				</div>
+				<div style="float: left; margin-right: 20px;">
+					<div>
 						<img src="placeholders/mp3/round_trip_morning_mix.png" style="width: 300px">
 					</div>
 					<div>
@@ -229,28 +250,29 @@ DJ Symeon on HEROKU
 					  		<source src="placeholders/mp3/round_trip_morning_mix.mp3" type="audio/mpeg">
 						</audio>
 					</div>
+					<h3>Round Trip: Morning Mix</h3>
 				</div>
 				<div style="float: left; margin-right: 20px;">
 					<div>
-						<h3>Round Trip: Weekend Mix</h3>
 						<img src="placeholders/mp3/round_trip_weekend_mix.png" style="width: 300px">
 					</div>
 					<div>
 						<audio controls>
 						  <source src="placeholders/mp3/round_trip_weekend_mix.mp3" type="audio/mpeg">
 						</audio>
-	                </div>
+	        </div>
+					<h3>Round Trip: Weekend Mix</h3>
 				</div>
 				<div style="float: left; margin-right: 20px;">
 					<div>
-						<h3>Round Trip: Tech Mix</h3>
 						<img src="placeholders/mp3/round_trip_tech_mix.png" style="width: 300px">
 					</div>
 					<div>
 						<audio controls>
 						  <source src="placeholders/mp3/round_trip_tech_mix.mp3" type="audio/mpeg">
 						</audio>
-	                </div>
+          </div>
+					<h3>Round Trip: Tech Mix</h3>
 				</div>
 			</div>
 		</div>
@@ -270,22 +292,17 @@ DJ Symeon on HEROKU
 	<!-- /parallax intro -->
 	<!-- container -->
 	<div class="container clearfix">
-		<!-- ############ content header ############ -->
 		<header class="content-header">
 			<h6 class="upcoming-event">Upcoming Event</h6>
-			<h2 class="content-title">1P36 Deletion Syndrome Fundraiser by iRED Recordings</h2>
-			<span class="sub-heading">2212 Artesia Blvd, Torrance, California 90504</span>
-			<img src="img/1p36_deletion_fundraiser.jpg" style="width: 500px" />
+			<h2 class="content-title">EVENTS COMING SOON</h2>
+			<span class="sub-heading">NEAR YOU</span>
 		</header>
-		<!-- /content header -->
-		<!-- countdown -->
 		<div class="countdown" data-event-date="2016/07/10 14:00:00">
 			<div class="days" data-label="Days">000</div>
 			<div class="hours" data-label="Hours">000</div>
 			<div class="minutes" data-label="Minutes">000</div>
 			<div class="seconds" data-label="Seconds">000</div>
 		</div>
-		<!-- /countdown -->
 	</div>
 	<!-- /container -->
 </section>
@@ -309,36 +326,6 @@ DJ Symeon on HEROKU
 		<div class="masonry">
 			<!-- brick -->
 			<div class="brick width-1-4 height-1-4">
-				<a href="placeholders/mp3/downtown.mp3" class="thumb fap-single-track">
-					<!-- Title and opacity mask -->
-					<div class="inner">
-						<h6>Play Sample</h6>
-					</div>
-					<!-- image -->
-					<img src="placeholders/album_covers/downtown.png" alt="Release image" >
-					<!-- badge -->
-					<span class="badge free">SOON!!!</span>
-				</a>
-			</div>
-			<div class="brick width-1-4 height-1-4">
-				<a href="placeholders/mp3/downtown.mp3" class="thumb">
-					<div class="flip-container">
-						<div class="flipper">
-							<div class="front" style="background:#333333">
-								<span class="brick-icon icon-arrow-left-3"></span>
-								<span class="brick-title">COMING SOON!! - CLICK HERE TO LISTEN!!<br> Downtown by Symeon (Original Mix)</span>
-							</div>
-							<div class="back">
-								<span class="brick-icon icon-arrow-left-3"></span>
-								<span class="brick-title">COMING SOON!!! CLICK TO LISTEN</span>
-							</div>
-						</div>
-					</div>
-				</a>
-			</div>
-			<!-- /brick -->
-			<!-- brick -->
-			<div class="brick width-1-4 height-1-4">
 				<a href="placeholders/mp3/the_beautiful_things.mp3" class="thumb fap-single-track">
 					<!-- Title and opacity mask -->
 					<div class="inner">
@@ -347,7 +334,7 @@ DJ Symeon on HEROKU
 					<!-- image -->
 					<img src="placeholders/album_covers/the_beautiful_things.png" alt="Release image" >
 					<!-- badge -->
-					<span class="badge free">SOON!!!</span>
+					<span class="badge free">OUT NOW!!!</span>
 				</a>
 			</div>
 			<div class="brick width-1-4 height-1-4">
@@ -356,7 +343,37 @@ DJ Symeon on HEROKU
 						<div class="flipper">
 							<div class="front" style="background:#333333">
 								<span class="brick-icon icon-arrow-left-3"></span>
-								<span class="brick-title">COMING SOON!! - CLICK HERE TO LISTEN!!<br> The Beautiful Things by Symeon (Original Mix)</span>
+								<span class="brick-title">OUT NOW!!! - CLICK HERE TO LISTEN!!<br> The Beautiful Things (Original Mix)</span>
+							</div>
+							<div class="back">
+								<span class="brick-icon icon-arrow-left-3"></span>
+								<span class="brick-title">OUT NOW!!! CLICK TO LISTEN</span>
+							</div>
+						</div>
+					</div>
+				</a>
+			</div>
+			<!-- /brick -->
+			<!-- brick -->
+			<div class="brick width-1-4 height-1-4">
+				<a href="placeholders/mp3/give_me_your_love.mp3" class="thumb fap-single-track">
+					<!-- Title and opacity mask -->
+					<div class="inner">
+						<h6>Play Sample</h6>
+					</div>
+					<!-- image -->
+					<img src="placeholders/album_covers/give_me_your_love.png" alt="Release image" >
+					<!-- badge -->
+					<span class="badge free">SOON!!!</span>
+				</a>
+			</div>
+			<div class="brick width-1-4 height-1-4">
+				<a href="placeholders/mp3/give_me_your_love.mp3" class="thumb">
+					<div class="flip-container">
+						<div class="flipper">
+							<div class="front" style="background:#333333">
+								<span class="brick-icon icon-arrow-left-3"></span>
+								<span class="brick-title">COMING SOON!! - CLICK HERE TO LISTEN!!<br> Give Me Your Love feat. Koz (Original Mix)</span>
 							</div>
 							<div class="back">
 								<span class="brick-icon icon-arrow-left-3"></span>
@@ -369,54 +386,24 @@ DJ Symeon on HEROKU
 			<!-- /brick -->
 			<!-- brick -->
 			<div class="brick width-1-4 height-1-4">
-				<a href="placeholders/mp3/moving_forward.mp3" class="thumb fap-single-track">
+				<a href="placeholders/mp3/with_you.mp3" class="thumb fap-single-track">
 					<!-- Title and opacity mask -->
 					<div class="inner">
 						<h6>Play Sample</h6>
 					</div>
 					<!-- image -->
-					<img src="placeholders/album_covers/moving_forward.png" alt="Release image" >
+					<img src="placeholders/album_covers/with_you.png" alt="Release image" >
 					<!-- badge -->
 					<span class="badge free">SOON!!!</span>
 				</a>
 			</div>
 			<div class="brick width-1-4 height-1-4">
-				<a href="placeholders/mp3/moving_forward.mp3" class="thumb">
+				<a href="placeholders/mp3/with_you.mp3" class="thumb">
 					<div class="flip-container">
 						<div class="flipper">
 							<div class="front" style="background:#333333">
 								<span class="brick-icon icon-arrow-left-3"></span>
-								<span class="brick-title">COMING SOON!! - CLICK HERE TO LISTEN!!<br> Moving Forward (Symeon Remix)</span>
-							</div>
-							<div class="back">
-								<span class="brick-icon icon-arrow-left-3"></span>
-								<span class="brick-title">COMING SOON!!! CLICK TO LISTEN</span>
-							</div>
-						</div>
-					</div>
-				</a>
-			</div>
-			<!-- /brick -->
-			<!-- brick -->
-			<div class="brick width-1-4 height-1-4">
-				<a href="placeholders/mp3/i_got_the_feel.mp3" class="thumb fap-single-track">
-					<!-- Title and opacity mask -->
-					<div class="inner">
-						<h6>Play Sample</h6>
-					</div>
-					<!-- image -->
-					<img src="placeholders/album_covers/i_got_the_feel.png" alt="Release image" >
-					<!-- badge -->
-					<span class="badge free">SOON!!!</span>
-				</a>
-			</div>
-			<div class="brick width-1-4 height-1-4">
-				<a href="placeholders/mp3/i_got_the_feel.mp3" class="thumb">
-					<div class="flip-container">
-						<div class="flipper">
-							<div class="front" style="background:#333333">
-								<span class="brick-icon icon-arrow-left-3"></span>
-								<span class="brick-title">COMING SOON!! - CLICK HERE TO LISTEN!!<br> I Got the Feel (Symeon Remix)</span>
+								<span class="brick-title">COMING SOON!! - CLICK HERE TO LISTEN!!<br> With You feat. Koz & Aaron Lee (Original Mix)</span>
 							</div>
 							<div class="back">
 								<span class="brick-icon icon-arrow-left-3"></span>
@@ -476,7 +463,7 @@ DJ Symeon on HEROKU
 						<div class="flipper">
 							<div class="front" style="background:#333333">
 								<span class="brick-icon icon-arrow-left-3"></span>
-								<span class="brick-title">OUT NOW - CLICK HERE TO DOWNLOAD!! <br> When The Night Falls by Symeon (Sample)</span>
+								<span class="brick-title">OUT NOW - CLICK HERE TO DOWNLOAD!! <br> When The Night Falls (Sample)</span>
 							</div>
 							<div class="back">
 								<span class="brick-icon icon-arrow-left-3"></span>
@@ -506,7 +493,7 @@ DJ Symeon on HEROKU
 						<div class="flipper">
 							<div class="front" style="background:#333333">
 								<span class="brick-icon icon-arrow-left-3"></span>
-								<span class="brick-title">OUT NOW - CLICK HERE TO DOWNLOAD!! <br> We'll Be Here by Symeon (Original Mix)</span>
+								<span class="brick-title">OUT NOW - CLICK HERE TO DOWNLOAD!! <br> We'll Be Here (Original Mix)</span>
 							</div>
 							<div class="back">
 								<span class="brick-icon icon-arrow-left-3"></span>
@@ -536,7 +523,7 @@ DJ Symeon on HEROKU
 						<div class="flipper">
 							<div class="front" style="background:#333333">
 								<span class="brick-icon icon-arrow-left-3"></span>
-								<span class="brick-title">OUT NOW - CLICK HERE TO DOWNLOAD!! <br> We'll Be Here by Symeon (Channa De Silva Mix)</span>
+								<span class="brick-title">OUT NOW - CLICK HERE TO DOWNLOAD!! <br> We'll Be Here (Channa De Silva Mix)</span>
 							</div>
 							<div class="back">
 								<span class="brick-icon icon-arrow-left-3"></span>
