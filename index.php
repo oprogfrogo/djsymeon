@@ -63,9 +63,7 @@
 <!-- ############################# intro ############################# -->
 <section id="intro" class="intro-resize parallax clearfix" style="background-image: url(placeholders/djsymeon_with_logo.png); background-size: 760px auto; background-repeat: no-repeat; background-color: #000;">
 	<div><img src="img/ired_recording.jpg" id="ired-logo" style="width: 130px" /></div>
-	<div style="position: absolute; top: 20px; right: 0; z-index: 9999999999999">
-		<iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fsymeonsounds%2F&width=500&layout=standard&action=like&size=small&show_faces=true&share=true&height=80&appId=1697867697192720" width="500" height="80" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
-	</div>
+	<div style="position: absolute; right: 30px; top: 30px;"><iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&width=124&layout=button_count&action=like&size=small&show_faces=false&share=true&height=46&appId=1697867697192720" width="124" height="46" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe></div>
 	<!-- animated bg -->
 	<div class="intro-bg"></div>
 	<!-- container -->
