@@ -338,7 +338,7 @@
 				</a>
 			</div>
 			<div class="brick width-1-4 height-1-4">
-				<a href="https://s3-us-west-2.amazonaws.com/djsymeon/the_beautiful_things.mp3" class="thumb">
+				<a href="https://www.beatport.com/release/the-beautiful-things-single/1856839" class="thumb">
 					<div class="flip-container">
 						<div class="flipper">
 							<div class="front" style="background:#333333">
