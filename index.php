@@ -85,7 +85,7 @@
 		<!-- ############ header button ############ -->
 		<!-- <a id="intro-button" class="smooth-scroll" href="#upcoming-event"><span>ENTER</span></a> -->
 		<!-- ############ scroll arrows ############ -->
-		<a id="scroll-arrows" class="smooth-scroll" href="#mixes"><img src="img/scroll-arrows.png" alt="scroll down"></a>
+		<a id="scroll-arrows" class="smooth-scroll" href="#events"><img src="img/scroll-arrows.png" alt="scroll down"></a>
 	</div>
 	<!-- /container -->
 </section>
@@ -199,6 +199,36 @@
 </section>
 <!-- /navigation section -->
 
+<!-- ############################# upcoming event ############################# -->
+<section id="events" class="event-countdown">
+	<!-- ############ Paralax Intro ############ -->
+	<div id="upcoming-event" class="section-header parallax clearfix" style="background-image: url(placeholders/release-header-1920x1000.jpg)" data-interia="0.1">
+		<div class="overlay"></div>
+		<div class="container clearfix">
+			<img src="placeholders/symeon_logo_2016.png" class="aligncenter" alt="footer-logo" width="400">
+			<h2 class="section-heading">UPCOMING EVENTS</h2>
+		</div>
+	</div>
+	<!-- /parallax intro -->
+	<!-- container -->
+	<div class="container clearfix">
+		<header class="content-header">
+			<h6 class="upcoming-event">Upcoming Event</h6>
+			<h2 class="content-title">Avalon March 25, 2017</h2>
+			<span class="sub-heading">Pioneer Room</span>
+			<span><img src="img/avalon_03252017.jpg" width="600"></span>
+		</header>
+		<!-- <div class="countdown" data-event-date="2017/03/25 11:59:99">
+			<div class="days" data-label="Days">000</div>
+			<div class="hours" data-label="Hours">000</div>
+			<div class="minutes" data-label="Minutes">000</div>
+			<div class="seconds" data-label="Seconds">000</div>
+		</div> -->
+	</div>
+	<!-- /container -->
+</section>
+<!-- /upcoming event -->
+
 
 <!-- ############ page container loaded via ajax ############ -->
 <div id="custom-page" class="ajax-holder"></div>
@@ -279,35 +309,6 @@
 	</div>
 </section>
 
-<!-- ############################# upcoming event ############################# -->
-<section id="events" class="event-countdown">
-	<!-- ############ Paralax Intro ############ -->
-	<div id="upcoming-event" class="section-header parallax clearfix" style="background-image: url(placeholders/release-header-1920x1000.jpg)" data-interia="0.1">
-		<div class="overlay"></div>
-		<div class="container clearfix">
-			<img src="placeholders/symeon_logo_2016.png" class="aligncenter" alt="footer-logo" width="400">
-			<h2 class="section-heading">UPCOMING EVENTS</h2>
-		</div>
-	</div>
-	<!-- /parallax intro -->
-	<!-- container -->
-	<div class="container clearfix">
-		<header class="content-header">
-			<h6 class="upcoming-event">Upcoming Event</h6>
-			<h2 class="content-title">EVENTS COMING SOON</h2>
-			<span class="sub-heading">NEAR YOU</span>
-		</header>
-		<div class="countdown" data-event-date="2016/07/10 14:00:00">
-			<div class="days" data-label="Days">000</div>
-			<div class="hours" data-label="Hours">000</div>
-			<div class="minutes" data-label="Minutes">000</div>
-			<div class="seconds" data-label="Seconds">000</div>
-		</div>
-	</div>
-	<!-- /container -->
-</section>
-<!-- /upcoming event -->
-
 
 <!-- ############################# masonry news ############################# -->
 <section id="masonry-news" class="masonry-news clearfix">
@@ -324,6 +325,66 @@
 	<div class="container clearfix">
 		<!-- ############ masonry ############ -->
 		<div class="masonry">
+			<!-- brick -->
+			<div class="brick width-1-4 height-1-4">
+				<a href="https://s3-us-west-2.amazonaws.com/djsymeon/Symeon+-+Give+Me+Your+Love+feat.+Koz+(Original+Mix).mp3" class="thumb fap-single-track">
+					<!-- Title and opacity mask -->
+					<div class="inner">
+						<h6>Play Sample</h6>
+					</div>
+					<!-- image -->
+					<img src="https://s3-us-west-2.amazonaws.com/djsymeon/give_me_your_love_album_cover.jpg" alt="Release image" >
+					<!-- badge -->
+					<span class="badge free">OUT NOW!!!</span>
+				</a>
+			</div>
+			<div class="brick width-1-4 height-1-4">
+				<a href="https://www.beatport.com/release/give-me-your-love-single/1936991" class="thumb">
+					<div class="flip-container">
+						<div class="flipper">
+							<div class="front" style="background:#333333">
+								<span class="brick-icon icon-arrow-left-3"></span>
+								<span class="brick-title">OUT NOW!!! - CLICK HERE TO LISTEN!!<br> Give Me Your Love feat. Koz (Original Mix)</span>
+							</div>
+							<div class="back">
+								<span class="brick-icon icon-arrow-left-3"></span>
+								<span class="brick-title">OUT NOW!!! CLICK TO LISTEN</span>
+							</div>
+						</div>
+					</div>
+				</a>
+			</div>
+			<!-- /brick -->
+			<!-- brick -->
+			<div class="brick width-1-4 height-1-4">
+				<a href="https://s3-us-west-2.amazonaws.com/djsymeon/with_you.mp3" class="thumb fap-single-track">
+					<!-- Title and opacity mask -->
+					<div class="inner">
+						<h6>Play Sample</h6>
+					</div>
+					<!-- image -->
+					<img src="https://s3-us-west-2.amazonaws.com/djsymeon/with_you.png" alt="Release image" >
+					<!-- badge -->
+					<span class="badge free">OUT NOW!!!</span>
+				</a>
+			</div>
+			<div class="brick width-1-4 height-1-4">
+				<a href="https://s3-us-west-2.amazonaws.com/djsymeon/with_you.mp3" class="thumb">
+					<div class="flip-container">
+						<div class="flipper">
+							<div class="front" style="background:#333333">
+								<span class="brick-icon icon-arrow-left-3"></span>
+								<span class="brick-title">OUT NOW!! - CLICK HERE TO LISTEN!!<br> With You feat. Koz & Aaron Lee (Original Mix)</span>
+							</div>
+							<div class="back">
+								<span class="brick-icon icon-arrow-left-3"></span>
+								<span class="brick-title">OUT NOW!!! CLICK TO LISTEN</span>
+							</div>
+						</div>
+					</div>
+				</a>
+			</div>
+			<!-- /brick -->
 			<!-- brick -->
 			<div class="brick width-1-4 height-1-4">
 				<a href="https://s3-us-west-2.amazonaws.com/djsymeon/the_beautiful_things.mp3" class="thumb fap-single-track">
@@ -348,66 +409,6 @@
 							<div class="back">
 								<span class="brick-icon icon-arrow-left-3"></span>
 								<span class="brick-title">OUT NOW!!! CLICK TO LISTEN</span>
-							</div>
-						</div>
-					</div>
-				</a>
-			</div>
-			<!-- /brick -->
-			<!-- brick -->
-			<div class="brick width-1-4 height-1-4">
-				<a href="https://s3-us-west-2.amazonaws.com/djsymeon/give_me_your_love.mp3" class="thumb fap-single-track">
-					<!-- Title and opacity mask -->
-					<div class="inner">
-						<h6>Play Sample</h6>
-					</div>
-					<!-- image -->
-					<img src="https://s3-us-west-2.amazonaws.com/djsymeon/give_me_your_love.png" alt="Release image" >
-					<!-- badge -->
-					<span class="badge free">SOON!!!</span>
-				</a>
-			</div>
-			<div class="brick width-1-4 height-1-4">
-				<a href="https://s3-us-west-2.amazonaws.com/djsymeon/give_me_your_love.mp3" class="thumb">
-					<div class="flip-container">
-						<div class="flipper">
-							<div class="front" style="background:#333333">
-								<span class="brick-icon icon-arrow-left-3"></span>
-								<span class="brick-title">COMING SOON!! - CLICK HERE TO LISTEN!!<br> Give Me Your Love feat. Koz (Original Mix)</span>
-							</div>
-							<div class="back">
-								<span class="brick-icon icon-arrow-left-3"></span>
-								<span class="brick-title">COMING SOON!!! CLICK TO LISTEN</span>
-							</div>
-						</div>
-					</div>
-				</a>
-			</div>
-			<!-- /brick -->
-			<!-- brick -->
-			<div class="brick width-1-4 height-1-4">
-				<a href="https://s3-us-west-2.amazonaws.com/djsymeon/with_you.mp3" class="thumb fap-single-track">
-					<!-- Title and opacity mask -->
-					<div class="inner">
-						<h6>Play Sample</h6>
-					</div>
-					<!-- image -->
-					<img src="https://s3-us-west-2.amazonaws.com/djsymeon/with_you.png" alt="Release image" >
-					<!-- badge -->
-					<span class="badge free">SOON!!!</span>
-				</a>
-			</div>
-			<div class="brick width-1-4 height-1-4">
-				<a href="https://s3-us-west-2.amazonaws.com/djsymeon/with_you.mp3" class="thumb">
-					<div class="flip-container">
-						<div class="flipper">
-							<div class="front" style="background:#333333">
-								<span class="brick-icon icon-arrow-left-3"></span>
-								<span class="brick-title">COMING SOON!! - CLICK HERE TO LISTEN!!<br> With You feat. Koz & Aaron Lee (Original Mix)</span>
-							</div>
-							<div class="back">
-								<span class="brick-icon icon-arrow-left-3"></span>
-								<span class="brick-title">COMING SOON!!! CLICK TO LISTEN</span>
 							</div>
 						</div>
 					</div>
@@ -612,6 +613,28 @@
 
 	<!--############ portfolio grid ############ -->
 	<div id="portfolio-items" class="fullwidth items clearfix">
+		<!-- item -->
+		<div class="item" data-categories="new deephouse">
+			<a href="project04.html" class="thumb project-thumb project-by-ajax tip" data-ajax-options='{"target" :"#project"}'>
+				<!-- title and opacity mask -->
+				<div class="inner">
+					<h6>Give Me Your Love feat. Koz <span>(Original Mix)</span></h6>
+				</div>
+				<!-- /title and opacity mask -->
+				<!-- image -->
+				<img class="lazy" src="https://s3-us-west-2.amazonaws.com/djsymeon/give_me_your_love_album_cover.jpg" data-src="https://s3-us-west-2.amazonaws.com/djsymeon/give_me_your_love_album_cover.jpg" alt="Release image" >
+				<!-- badge -->
+				<span class="badge new">NEW</span>
+				<!-- tooltip -->
+				<div class="tip-content animate hidden">
+					<span class="tip-title">Give Me Your Love feat. Koz</span>
+					<span class="tip-genre">Vocal House</span>
+					<span class="tip-date">Jan 01, 2017</span>
+				</div>
+				<!-- /tooltip -->
+			</a>
+		</div>
+		<!-- /item -->
 		<!-- item -->
 		<div class="item" data-categories="new trance deephouse">
 			<a href="project04.html" class="thumb project-thumb project-by-ajax tip" data-ajax-options='{"target" :"#project"}'>
@@ -1129,7 +1152,7 @@
 <!-- ############################# javascripts ############################# -->
 <script src="js/jquery.easing-1.3.min.js"></script>
 <script src="js/jquery.dlmenu.js"></script>
-<script src="js/smoothscroll.js"></script>
+<!-- <script src="js/smoothscroll.js"></script> -->
 <script src="js/jquery.scrollTo.min.js"></script>
 <script src="js/jquery.parallax-1.1.3.js"></script>
 <script src="js/jquery.isotope.min.js"></script>
