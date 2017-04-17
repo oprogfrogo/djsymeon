@@ -214,9 +214,9 @@
 	<div class="container clearfix">
 		<header class="content-header">
 			<h6 class="upcoming-event">Upcoming Event</h6>
-			<h2 class="content-title">Avalon March 25, 2017</h2>
-			<span class="sub-heading">Pioneer Room</span>
-			<span><img src="img/avalon_03252017.jpg" width="600"></span>
+			<h2 class="content-title">Blue J Lounge April 16, 2017</h2>
+			<span class="sub-heading"></span>
+			<span><img src="img/sugarcoatsundays_20170416.jpg" width="600"></span>
 		</header>
 		<!-- <div class="countdown" data-event-date="2017/03/25 11:59:99">
 			<div class="days" data-label="Days">000</div>
@@ -750,7 +750,7 @@
 
 
 <!-- ############################# events ############################# -->
-<!-- <section id="events" class="section">
+<section id="events" class="section">
 
 	<div id="events-header" class="section-header parallax clearfix" style="background-image: url(placeholders/events-header-1920x1000.jpg);" data-interia="0">
 		<div class="overlay"></div>
@@ -765,92 +765,22 @@
 	<ul id="events-list">
 		<li style="background-image: url(placeholders/event-01-1920x573.jpg);">
 			<div class="inner">
-				<span class="event-date">08/23</span>
-				<h2><a href="event01.html" class="event-by-ajax" data-ajax-options='{"target" :"#event"}'>Amsterdam Dance</a></h2>
-				<span class="event-location">Amsterdam, Netherlands</span>
+				<span class="event-date">04/16/2017</span>
+				<h3>Blue J Lounge with Donald Glaude</h3>
+				<span class="event-location">Los Angeles, CA</span>
+				<div><img src="img/sugarcoatsundays_20170416.jpg" width="200"></div>
 			</div>
 		</li>
 		<li style="background-image: url(placeholders/event-02-1920x573.jpg);">
 			<div class="inner">
-				<span class="event-date">09/02</span>
-				<h2><a href="event02.html" class="event-by-ajax" data-ajax-options='{"target" :"#event"}'>Bacardi Original Bar</a></h2>
-				<span class="event-location">Budapest (budapest), Hungary</span>
-			</div>
-		</li>
-		<li style="background-image: url(placeholders/event-03-1920x573.jpg);">
-			<div class="inner">
-				<span class="event-date">09/18</span>
-				<h2><a href="event03.html" class="event-by-ajax" data-ajax-options='{"target" :"#event"}'>Luxorlive</a></h2>
-				<span class="event-location">Arnhem, Netherlands</span>
-			</div>
-		</li>
-		<li style="background-image: url(placeholders/event-04-1920x573.jpg);">
-			<div class="inner">
-				<span class="event-date">10/30</span>
-				<h2><a href="event04.html" class="event-by-ajax" data-ajax-options='{"target" :"#event"}'>Papagayo Beach Club</a></h2>
-				<span class="event-location">Santa Cruz De Tenerife, Spain</span>
+				<span class="event-date">03/25/2017</span>
+				<h3>Avalon - Pioneer Room</h3>
+				<span class="event-location">Los Angeles, CA</span>
+				<div><img src="img/avalon_03252017.jpg" width="200"></div>
 			</div>
 		</li>
 	</ul>
-
-	<div class="more-events">
-		<h6 class="heading-xl">More events</h6>
-	</div>
-
-	<div class="masonry-events">
-		<a href="event01.html" class="event-brick event-by-ajax" data-ajax-options='{"target" :"#event"}'>
-			<span class="event-date">11/23</span>
-			<span class="event-title">Roseland Ballroom</span>
-			<span class="event-location">NEW YORK, NY</span>
-		</a>
-		<a href="event02.html" class="event-brick event-by-ajax" data-ajax-options='{"target" :"#event"}'>
-			<span class="event-date">11/28</span>
-			<span class="event-title">Hollywood Bowl</span>
-			<span class="event-location">Hollywood, Ca</span>
-		</a>
-		<a href="event03.html" class="event-brick event-by-ajax" data-ajax-options='{"target" :"#event"}'>
-			<span class="event-date">12/01</span>
-			<span class="event-title">Shanghai Expo Center</span>
-			<span class="event-location">Shanghai, China</span>
-		</a>
-		<a href="event04.html" class="event-brick event-by-ajax" data-ajax-options='{"target" :"#event"}'>
-			<span class="event-date">12/03</span>
-			<span class="event-title">Sepang International Circuit</span>
-			<span class="event-location">Kuala Lumpur, Malaysia</span>
-		</a>
-		<a href="event03.html" class="event-brick event-by-ajax" data-ajax-options='{"target" :"#event"}'>
-			<span class="event-date">12/18</span>
-			<span class="event-title">Bacardi Original Bar</span>
-			<span class="event-location">Budapest (budapest), Hungary</span>
-		</a>
-		<a href="event01.html" class="event-brick event-by-ajax" data-ajax-options='{"target" :"#event"}'>
-			<span class="event-date">11/23</span>
-			<span class="event-title">Roseland Ballroom</span>
-			<span class="event-location">NEW YORK, NY</span>
-		</a>
-		<a href="event02.html" class="event-brick event-by-ajax" data-ajax-options='{"target" :"#event"}'>
-			<span class="event-date">11/28</span>
-			<span class="event-title">Hollywood Bowl</span>
-			<span class="event-location">Hollywood, Ca</span>
-		</a>
-		<a href="event03.html" class="event-brick event-by-ajax" data-ajax-options='{"target" :"#event"}'>
-			<span class="event-date">12/01</span>
-			<span class="event-title">Shanghai Expo Center</span>
-			<span class="event-location">Shanghai, China</span>
-		</a>
-		<a href="event04.html" class="event-brick event-by-ajax" data-ajax-options='{"target" :"#event"}'>
-			<span class="event-date">12/03</span>
-			<span class="event-title">Sepang International Circuit</span>
-			<span class="event-location">Kuala Lumpur, Malaysia</span>
-		</a>
-		<a href="event03.html" class="event-brick event-by-ajax" data-ajax-options='{"target" :"#event"}'>
-			<span class="event-date">12/18</span>
-			<span class="event-title">Bacardi Original Bar</span>
-			<span class="event-location">Budapest (budapest), Hungary</span>
-		</a>
-	</div>
-
-</section> -->
+</section>
 
 
 <!-- ############################# bio ############################# -->
