@@ -168,6 +168,9 @@
 						<a href="#upcoming-event">Upcoming Events</a>
 					</li>
 					<li>
+                        <a href="#events">All Events</a>
+                    </li>
+					<li>
 						<a href="#new_tracks">New Tracks</a>
 					</li>
 					<li>
@@ -200,7 +203,7 @@
 <!-- /navigation section -->
 
 <!-- ############################# upcoming event ############################# -->
-<section id="events" class="event-countdown">
+<section id="upcoming-event" class="event-countdown">
 	<!-- ############ Paralax Intro ############ -->
 	<div id="upcoming-event" class="section-header parallax clearfix" style="background-image: url(placeholders/release-header-1920x1000.jpg)" data-interia="0.1">
 		<div class="overlay"></div>
@@ -755,7 +758,8 @@
 	<div id="events-header" class="section-header parallax clearfix" style="background-image: url(placeholders/events-header-1920x1000.jpg);" data-interia="0">
 		<div class="overlay"></div>
 		<div class="container clearfix">
-			<h6 class="section-sub-heading">SEE YOU AT THE CLUB</h6>
+			<h6 class="section-sub-heading"></h6>
+			<img src="placeholders/symeon_logo_2016.png" class="aligncenter" alt="footer-logo" width="400">
 			<h2 class="section-heading">SHOWS AND EVENTS</h2>
 		</div>
 	</div>
@@ -764,20 +768,20 @@
 
 	<ul id="events-list">
 		<li style="background-image: url(placeholders/event-01-1920x573.jpg);">
-			<div class="inner">
+			<div class="inner" style="display: inline-block">
 				<span class="event-date">04/16/2017</span>
-				<h3>Blue J Lounge with Donald Glaude</h3>
+				<h3>Blue J Lounge w/ Donald Glaude</h3>
 				<span class="event-location">Los Angeles, CA</span>
-				<div><img src="img/sugarcoatsundays_20170416.jpg" width="200"></div>
 			</div>
+			<div style="display: inline-block"><img src="img/sugarcoatsundays_20170416.jpg" width="200"></div>
 		</li>
 		<li style="background-image: url(placeholders/event-02-1920x573.jpg);">
-			<div class="inner">
+			<div class="inner" style="display: inline-block">
 				<span class="event-date">03/25/2017</span>
 				<h3>Avalon - Pioneer Room</h3>
 				<span class="event-location">Los Angeles, CA</span>
-				<div><img src="img/avalon_03252017.jpg" width="200"></div>
 			</div>
+			<div style="display: inline-block"><img src="img/avalon_03252017.jpg" width="200"></div>
 		</li>
 	</ul>
 </section>
