@@ -217,9 +217,9 @@
 	<div class="container clearfix">
 		<header class="content-header">
 			<h6 class="upcoming-event">Upcoming Event</h6>
-			<h2 class="content-title">Blue J Lounge April 16, 2017</h2>
+			<h2 class="content-title">Can-Zo' Bar April 29, 2017</h2>
 			<span class="sub-heading"></span>
-			<span><img src="img/sugarcoatsundays_20170416.jpg" width="600"></span>
+			<!-- <span><img src="img/sugarcoatsundays_20170416.jpg" width="600"></span> -->
 		</header>
 		<!-- <div class="countdown" data-event-date="2017/03/25 11:59:99">
 			<div class="days" data-label="Days">000</div>
@@ -767,21 +767,30 @@
 	<div id="event" class="ajax-holder"></div>
 
 	<ul id="events-list">
+	    <li style="background-image: url(placeholders/event-01-1920x573.jpg);">
+            <div class="inner" style="display: inline-block">
+                <span class="event-date">04/29/2017</span>
+                <h2 style="font-size: 22px">DJ Marc @ Can-Zo' Bar</h2>
+                <div class="event-location">18212 S Western Ave, Gardena, CA 90248</div>
+                <div class="event-location">9pm - 1am</div>
+                <div class="event-location"><a href="https://www.yelp.com/biz/can-zo-gardena" target="_blank">https://www.yelp.com/biz/can-zo-gardena</a></div>
+            </div>
+        </li>
 		<li style="background-image: url(placeholders/event-01-1920x573.jpg);">
+		    <div style="display: inline-block"><img src="img/sugarcoatsundays_20170416.jpg" width="200" style="padding-left: 20px"></div>
 			<div class="inner" style="display: inline-block">
 				<span class="event-date">04/16/2017</span>
-				<h3>Blue J Lounge w/ Donald Glaude</h3>
+				<h2 style="font-size: 22px">DJ Symeon @ Blue J Lounge w/ Donald Glaude</h2>
 				<span class="event-location">Los Angeles, CA</span>
 			</div>
-			<div style="display: inline-block"><img src="img/sugarcoatsundays_20170416.jpg" width="200"></div>
 		</li>
 		<li style="background-image: url(placeholders/event-02-1920x573.jpg);">
+		    <div style="display: inline-block"><img src="img/avalon_03252017.jpg" width="200" style="padding-left: 20px"></div>
 			<div class="inner" style="display: inline-block">
 				<span class="event-date">03/25/2017</span>
-				<h3>Avalon - Pioneer Room</h3>
+				<h2 style="font-size: 22px">DJ Symeon @ Avalon - Pioneer Room</h2>
 				<span class="event-location">Los Angeles, CA</span>
 			</div>
-			<div style="display: inline-block"><img src="img/avalon_03252017.jpg" width="200"></div>
 		</li>
 	</ul>
 </section>
