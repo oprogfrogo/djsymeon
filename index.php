@@ -217,9 +217,9 @@
 	<div class="container clearfix">
 		<header class="content-header">
 			<h6 class="upcoming-event">Upcoming Event</h6>
-			<h2 class="content-title">Can-Zo' Bar April 29, 2017</h2>
-			<h2 class="content-title">DJ Marc</h2>
-			<img src="img/events/room_canzo.jpg" width="500" style="padding-left: 20px">
+			<h2 class="content-title">The Room @ Can-Zo' Bar on October 14, 2017</h2>
+			<h2 class="content-title">Symeon 11pm - 12am & Marc V 12am - 1am</h2>
+			<img src="img/events/room_canzo2.jpg" width="500" style="padding-left: 20px">
 			<span class="sub-heading"></span>
 			<!-- <span><img src="img/sugarcoatsundays_20170416.jpg" width="600"></span> -->
 		</header>
@@ -769,6 +769,16 @@
 	<div id="event" class="ajax-holder"></div>
 
 	<ul id="events-list">
+		<li style="background-image: url(placeholders/event-01-1920x573.jpg);">
+			<div style="display: inline-block"><img src="img/events/room_canzo2.jpg" width="200" style="padding-left: 20px"></div>
+      <div class="inner" style="display: inline-block">
+          <span class="event-date">10/14/2017</span>
+          <h2 style="font-size: 22px">DJ Symeon & Marc V @ Can-Zo' Bar</h2>
+          <div class="event-location">18212 S Western Ave, Gardena, CA 90248</div>
+          <div class="event-location">9pm - 1am</div>
+          <div class="event-location"><a href="https://www.yelp.com/biz/can-zo-gardena" target="_blank">https://www.yelp.com/biz/can-zo-gardena</a></div>
+      </div>
+    </li>
     <li style="background-image: url(placeholders/event-01-1920x573.jpg);">
 			<div style="display: inline-block"><img src="img/events/room_canzo.jpg" width="200" style="padding-left: 20px"></div>
       <div class="inner" style="display: inline-block">
