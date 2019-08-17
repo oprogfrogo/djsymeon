@@ -124,43 +124,6 @@
 			<!-- ############ navigation ############ -->
 			<nav id="nav" class="one-page-nav">
 				<ul>
-					<!-- <li>
-                		<a href="#">Features</a>
-                        <ul>
-                        	<li>
-                            	<a href="grid.html" class="page-by-ajax" data-ajax-options='{"target" :"#custom-page"}'>Grid</a>
-                            </li>
-                            <li>
-                            	<a href="masonry.html" class="page-by-ajax" data-ajax-options='{"target" :"#custom-page"}'>Masonry Boxes</a>
-                            </li>
-                            <li>
-                            	<a href="gallery.html" class="page-by-ajax" data-ajax-options='{"target" :"#custom-page"}'>Gallery</a>
-                            </li>
-                            <li>
-                            	<a href="elements.html" class="page-by-ajax" data-ajax-options='{"target" :"#custom-page"}'>Elements</a>
-                            </li>
-                            <li>
-                            	<a href="videos.html" class="page-by-ajax" data-ajax-options='{"target" :"#custom-page"}'>Videos</a>
-                            </li>
-                            <li>
-                            	<a href="#newsletter">Newsletter</a>
-                            </li>
-                            <li>
-                            	<a href="#">Sub Menu</a>
-                            	<ul>
-                            		<li>
-                            			<a href="#">Level 2.1</a>
-                            		</li>
-                            		<li>
-                            			<a href="#">Level 2.2</a>
-                            		</li>
-                            		<li>
-                            			<a href="#">Level 2.3</a>
-                            		</li>
-                            	</ul>
-                            </li>
-                        </ul>
-                    </li> -->
 					<li>
 						<a href="#mixes">Mixes</a>
 					</li>
@@ -168,8 +131,8 @@
 						<a href="#upcoming-event">Upcoming Events</a>
 					</li>
 					<li>
-                        <a href="#events">All Events</a>
-                    </li>
+						<a href="#events">All Events</a>
+					</li>
 					<li>
 						<a href="#new_tracks">New Tracks</a>
 					</li>
@@ -216,10 +179,9 @@
 	<!-- container -->
 	<div class="container clearfix">
 		<header class="content-header">
-			<h6 class="upcoming-event">Upcoming Event</h6>
-			<h2 class="content-title">The Room @ Can-Zo' Bar on October 14, 2017</h2>
-			<h2 class="content-title">Symeon 11pm - 12am & Marc V 12am - 1am</h2>
-			<img src="img/events/room_canzo2.jpg" width="500" style="padding-left: 20px">
+			<h2 class="content-title">Release of Deux Chat debut track!</h2>
+			<h3 class="">Available September 16, 2019</h3>
+			<img src="img/albumcover-readytogetdown-quinagreen.jpg" width="500" style="padding-left: 20px">
 			<span class="sub-heading"></span>
 			<!-- <span><img src="img/sugarcoatsundays_20170416.jpg" width="600"></span> -->
 		</header>
@@ -330,6 +292,36 @@
 	<div class="container clearfix">
 		<!-- ############ masonry ############ -->
 		<div class="masonry">
+			<!-- brick -->
+			<div class="brick width-1-4 height-1-4">
+				<a href="https://djsymeon.s3-us-west-2.amazonaws.com/Deux+Chat+-+Ready+to+Get+Down+feat.+Quina+Green+(Promo+Mix).mp3" class="thumb fap-single-track">
+					<!-- Title and opacity mask -->
+					<div class="inner">
+						<h6>Play Sample</h6>
+					</div>
+					<!-- image -->
+					<img src="img/albumcover-readytogetdown-quinagreen.jpg" alt="Release image" >
+					<!-- badge -->
+					<span class="badge free">SOON!!!</span>
+				</a>
+			</div>
+			<div class="brick width-1-4 height-1-4">
+				<a href="https://djsymeon.s3-us-west-2.amazonaws.com/Deux+Chat+-+Ready+to+Get+Down+feat.+Quina+Green+(Promo+Mix).mp3" class="thumb">
+					<div class="flip-container">
+						<div class="flipper">
+							<div class="front" style="background:#333333">
+								<span class="brick-icon icon-arrow-left-3"></span>
+								<span class="brick-title">SOON!!!<br> Ready to Get Down feat. Quina Green (Original Mix)</span>
+							</div>
+							<div class="back">
+								<span class="brick-icon icon-arrow-left-3"></span>
+								<span class="brick-title">SOON!!!</span>
+							</div>
+						</div>
+					</div>
+				</a>
+			</div>
+			<!-- /brick -->
 			<!-- brick -->
 			<div class="brick width-1-4 height-1-4">
 				<a href="https://s3-us-west-2.amazonaws.com/djsymeon/Symeon+-+Give+Me+Your+Love+feat.+Koz+(Original+Mix).mp3" class="thumb fap-single-track">
@@ -744,7 +736,7 @@
 					<span class="tip-date">May 21, 2015</span>
 				</div>
 				<!-- /tooltip -->
-			</a>
+			<!-- </a> -->
 		</div>
 		<!-- /item -->
 	</div>
