@@ -851,9 +851,8 @@
 
 					<blockquote>
 						<p>
-							I want to create songs to convey the events that I go
-							through in my life. Whether I'm happy or sad, you'll hear it in
-							my songs" - Symeon
+							I want to create songs to convey the events that occur
+							in my life. Happy or sad, you'll hear it in my songs" - Symeon
 						</p>
 					</blockquote>
 				</div>
